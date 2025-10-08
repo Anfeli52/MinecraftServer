@@ -1,0 +1,17 @@
+{
+	id: "81498f30-1491-3147-8455-cd95ac2e66de"
+	type: "player"
+	player_name: "Anfeli52"
+	ranks: {
+		81498f30-1491-3147-8455-cd95ac2e66de: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Anfeli52"
+		"ftbteams:description": ""
+		"ftbteams:color": "#66FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,696 @@
+{
+	autofocus_id: "2EDDBBD19B8D3F8E"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "skill_book_drops"
+	group: ""
+	id: "773B08A88B215468"
+	images: [
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/shulker_cloak.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/death_harvest.png"
+			rotation: 0.0d
+			width: 1.8d
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/aqua_maneuvre.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/phantom_ascent.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/ender_obscuris.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/meteor_slam.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/critical_knowledge.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/soul_protection.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/vengeful_parry.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/punishment_kick.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/forbidden_strength.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/voodoo_magic.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/stamina_pillager.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/spider_techniques.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/arrow_tenacity.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "cdmoveset:textures/gui/skills/wolf_dodge.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/pain_anticipation.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/spider_techniques.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/back_and_forth.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/counter_attack.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/perfect_bulwark.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/endurance.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "epicfight:textures/gui/skills/berserker.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "sword_soaring:textures/gui/skills/sword_soaring.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 2.5d
+			y: -5.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"- Berserker"
+				"- Stamina Pillager"
+				"- Roll"
+				"- Step "
+				"- Guard"
+				"- Endurance"
+				"- Pain Anticipation"
+			]
+			icon: "plushie_buddies:plushie_zombie"
+			id: "791A6B8D4E7EC1A1"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "1F0BAE9E0AEC7C25"
+				title: "Zombie"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"- Berserker"
+				"- Stamina Pillager"
+				"- Roll"
+				"- Step "
+				"- Guard"
+				"- Endurance"
+				"- Pain Anticipation"
+			]
+			icon: "plushie_buddies:plushie_husk"
+			id: "0D7C44948FE63883"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "7E4A3CA5FBB0D5A8"
+				title: "Husk"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"- Berserker"
+				"- Stamina Pillager"
+				"- Roll"
+				"- Step "
+				"- Guard"
+				"- Endurance"
+				"- Pain Anticipation"
+				"- Aqua Maneuver"
+			]
+			icon: "plushie_buddies:plushie_drowned"
+			id: "6294E0CA3BDFB503"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "626C5AB709C18BEB"
+				title: "Drowned"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"- Swordmaster"
+				"- Technician"
+				"- Roll"
+				"- Step"
+				"- Guard"
+				"- Emergency Escape"
+				"- Mindset"
+				"- Arrow Tenacity"
+				"- Dodge Master"
+			]
+			icon: "plushie_buddies:plushie_skeleton"
+			id: "270B8FF2D45C94F1"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "062825A7770C0CB4"
+				title: "Skeleton"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"- Swordmaster"
+				"- Technician"
+				"- Roll"
+				"- Step"
+				"- Guard"
+				"- Emergency Escape"
+				"- Mindset"
+				"- Arrow Tenacity"
+				"- Dodge Master"
+			]
+			icon: "plushie_buddies:plushie_stray"
+			id: "7E8C3079CD52CF3F"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "1514706061468070"
+				title: "Stray"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"- Roll"
+				"- Step"
+				"- Guard"
+				"- Spider Techniques"
+			]
+			icon: "plushie_buddies:plushie_spider"
+			id: "21A33CC5CE77AD33"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "3651F8D3615A0858"
+				title: "Spider"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			description: [
+				"- Roll"
+				"- Step"
+				"- Guard"
+				"- Spider Techniques"
+			]
+			icon: "plushie_buddies:plushie_cave_spider"
+			id: "354DD533F4F7A50D"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "324F275B7E2E5B2F"
+				title: "Cave Spider"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"- Hyper Vitality"
+				"- Impact Guard"
+				"- Critical Knowledge"
+				"- Dancing Blade"
+			]
+			icon: "plushie_buddies:plushie_creeper"
+			id: "2EDDBBD19B8D3F8E"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "4252EAB467DBE051"
+				title: "Creeper"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"- Hyper Vitality"
+				"- Forbidden Strength"
+				"- Endurance"
+				"- Emergency Escape"
+				"- Parrying"
+				"- Impact Guard"
+				"- Ender Step"
+				"- Meditation"
+				"- Adrenanline"
+				"- Ender Obscuris"
+				"- Time travel"
+				""
+				"(&9No misspelling that is the name of the skill&f)"
+			]
+			icon: "plushie_buddies:plushie_enderman"
+			id: "6B3931086E8DED97"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "1F147354219C485F"
+				title: "Enderman"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"- Hyper Vitality"
+				"- Stamina Pillager"
+				"- Guard"
+				"- Step"
+				"- Roll"
+				"- Latent Retribution"
+				"- Precise Roll"
+				"- Punishment Kick"
+			]
+			icon: "plushie_buddies:plushie_vindicator"
+			id: "7C973BDC695F832F"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "070BC7B150822F9E"
+				title: "Vindicator"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"- Hyper Vitality"
+				"- Stamina Pillager"
+				"- Guard"
+				"- Step"
+				"- Roll"
+				"- Latent Retribution"
+				"- Precise Roll"
+				"- Punishment Kick"
+			]
+			icon: "plushie_buddies:plushie_pillager"
+			id: "675E1A22F2FBC74F"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "1741D402657E205E"
+				title: "Pillager"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"- Forbidden Strength"
+				"- Berserker"
+				"- Heart Shield"
+				"- Voodoo Magic"
+			]
+			icon: "plushie_buddies:plushie_witch"
+			id: "12B1B4EC5AA677C0"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "3536FD9C98810855"
+				title: "Witch"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"- Parrying"
+				"- Impact Guard"
+				"- Death Harvest"
+				"- Emergency Escape"
+				"- Heart Shield"
+				"- Voodoo Magic"
+			]
+			icon: "plushie_buddies:plushie_evoker"
+			id: "25328B05223E27A5"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "61F63A43C13E86E7"
+				title: "Evoker"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"- Swordmaster"
+				"- Stamina Pillager"
+				"- Guard"
+				"- Step"
+				"- Roll"
+				"- Counter Attack"
+				"- Back and ... FORTH !"
+			]
+			icon: "plushie_buddies:plushie_piglin"
+			id: "5CD54CDE27BD4C38"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "182AE927F6D90AD3"
+				title: "Piglin"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"- Hyper Vitality"
+				"- Parrying"
+				"- Endurance"
+				"- Impact Guard"
+				"- Counter Attack"
+				"- Back and ... FORTH !"
+			]
+			icon: "plushie_buddies:plushie_piglin_brute"
+			id: "38354E82DCB47A41"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "4532AA89BC8B7B7A"
+				title: "Piglin Brute"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"- Berserker"
+				"- Stamina Pillager"
+				"- Guard"
+				"- Step"
+				"- Roll"
+				"- Vampirize"
+				"- Pain Anticipation"
+			]
+			icon: "plushie_buddies:plushie_zombified_piglin"
+			id: "51A1BADDEAB0375D"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "6B0B6B9D4F35099F"
+				title: "Zombified Piglin"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"- Swordmaster"
+				"- Stamina Pillager"
+				"- Guard"
+				"- Step"
+				"- Roll"
+				"- Death Harvest"
+				"- Mindset"
+				"- Vengeful Parry"
+				"- Shadow Step"
+				"- Soul Protection"
+			]
+			icon: "plushie_buddies:plushie_wither_skeleton"
+			id: "322B50F34BE7713D"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "0C3206C8D0655544"
+				title: "Wither Skeleton"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			description: [
+				"- Soul Protection"
+				"- Ectoplasmic Phase"
+			]
+			icon: "plushie_buddies:plushie_ghast"
+			id: "76D9C89B1A3E4E7B"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "795E64DF22B8E614"
+				title: "Ghast"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"- Perfect Bulwark"
+				"- Aqua Maneuver"
+			]
+			icon: "plushie_buddies:plushie_guardian"
+			id: "0CCDB87132BCA28D"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "6C598F2454D17E4D"
+				title: "Guardian"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			description: ["- Shulker Cloak"]
+			icon: "plushie_buddies:plushie_shulker"
+			id: "348080B180F09350"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "695B893801AA32B4"
+				title: "Shulker"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			description: ["- Death Harvest"]
+			icon: "plushie_buddies:plushie_wither"
+			id: "40E5E26BFDD70417"
+			subtitle: "&6Drops the following skillbooks"
+			tasks: [{
+				id: "642D85C4761CB5C6"
+				title: "Wither"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"- Rain Cutter"
+				"- Rain Screen"
+				"- Stellar Restoration"
+				"- Sword Soaring"
+				""
+				"(&9Found in &6Ancient City&9, &6End city&9, &6Stronghold Library&9 and &6Fishing&f)"
+			]
+			icon: "plushie_buddies:plushie_dolphin"
+			id: "337E2B811D408635"
+			subtitle: "&6From Sword Soaring"
+			tasks: [{
+				id: "76D6F576CFAB8D45"
+				title: "&4Non-Mob Drops"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"- Desert Pyramid"
+				"- Jungle Temple"
+				"- Big Underwater Ruin"
+				"- Stronghold Library"
+				"- Woodland Mansion"
+				"- Bastion"
+			]
+			icon: "plushie_buddies:plushie_phantom"
+			id: "6AFA89D54FC3B352"
+			subtitle: "&6Found in these Structures"
+			tasks: [{
+				id: "0FA1ECD80CD1B6AB"
+				title: "Phantom Ascent"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"- Revelation"
+				"- Meteor Slam"
+				"- Demolition Leap"
+				"- Phantom"
+				"- Wolf God Leap"
+				"- Fatal Flash"
+				"- Better Step"
+				"- Blood Wolf"
+			]
+			icon: "plushie_buddies:plushie_enderdragon"
+			id: "5B2D0C1076FCCC3E"
+			subtitle: "&6Drops from any of the mobs here"
+			tasks: [{
+				id: "6D7A05DA8F249B31"
+				title: "Any of these mobs"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+	]
+	title: "&dSkill Book Drops"
+}

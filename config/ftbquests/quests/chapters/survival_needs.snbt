@@ -1,0 +1,1162 @@
+{
+	autofocus_id: "6E385C3A097A01A4"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "survival_needs"
+	group: "3BDABC1977584ED4"
+	id: "7E0D6C8EFCABDC31"
+	images: [
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/gold_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/iron_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/iron_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/iron_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/iron_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/iron_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/campfire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.85d
+		}
+		{
+			height: 0.8d
+			image: "minecraft:block/campfire_fire"
+			order: -1
+			rotation: 0.0d
+			width: 0.8d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			color: 43520
+			height: 1.2d
+			image: "minecraft:block/oak_leaves"
+			rotation: 90.0d
+			width: 1.2d
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/gold_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/gold_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/coal_ore"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/dirt"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			order: 1
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "minecraft:block/grass_block_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -3.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependency_requirement: "one_completed"
+			description: ["More space!"]
+			id: "276B8A17ABB76111"
+			rewards: [{
+				id: "2BBD93AA229D6D6B"
+				item: "minecraft:cookie"
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "29134A97757959DA"
+				item: {
+					Count: 1
+					id: "travelersbackpack:standard"
+					tag: {
+						StarterUpgrades: {
+							Items: [{
+								Count: 1b
+								id: "travelersbackpack:tanks_upgrade"
+							}]
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.9d
+		}
+		{
+			dependency_requirement: "one_completed"
+			description: ["You can now craft inside your backpack"]
+			id: "30C5B843605EBDB1"
+			tasks: [{
+				id: "49797415E02F08BA"
+				item: "travelersbackpack:crafting_upgrade"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			description: ["Even more space!"]
+			id: "29323DCCC7F647B6"
+			shape: "circle"
+			tasks: [{
+				id: "2F0D6B7DFC1A50EA"
+				item: "travelersbackpack:iron_tier_upgrade"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			description: ["You can now cook inside your backpack!"]
+			id: "3B1F41D2F7D5BB1F"
+			tasks: [{
+				id: "215B2062AD0DFA9E"
+				item: "travelersbackpack:furnace_upgrade"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "6BC968DC1902484C"
+			tasks: [{
+				id: "734950233E40BE21"
+				item: "travelersbackpack:blank_upgrade"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			description: [
+				"a mighty weapon great for cooking"
+				""
+				"you only get 1 test dummy if you lose it, it's gone :("
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "1C220DC47D6017C4"
+			rewards: [
+				{
+					id: "60232A34C36E94ED"
+					item: {
+						Count: 1
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:guard"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "10F2CE189A11CCE3"
+					item: {
+						Count: 1
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:roll"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03B24E45F2A411E5"
+					item: {
+						Count: 1
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:parrying"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73DE8EEA482A7561"
+					item: "dummmmmmy:target_dummy"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "73FE79ABEEF8443F"
+				item: {
+					Count: 1
+					id: "farmersdelight:skillet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "The pan"
+			x: -1.0d
+			y: -3.4d
+		}
+		{
+			description: ["You now need a golden pickaxe to mine iron"]
+			id: "2349CE5C5F7552F2"
+			rewards: [{
+				count: 10
+				id: "4DD571AA7F9C6ED5"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3DFCC140B584FCAA"
+				item: {
+					Count: 1
+					id: "minecraft:golden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Golden pickaxe?"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "08E3B767D5F3A419"
+			tasks: [{
+				id: "7691BEBDBE40F220"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "3D04501731D5D702"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "2E237EDB6CCBF2AB"
+					item: "ftbquests:book"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3BA316B589A78452"
+					item: "minecraft:bread"
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "44F04CDCDF4FD46B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:crafting_table"
+				}
+				type: "item"
+			}]
+			title: "Getting Started"
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			id: "644F623CF7CC8BDB"
+			rewards: [{
+				id: "47C2979D227DBEA4"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "1EBE0AF4F85A7DAF"
+				item: "naturescompass:naturescompass"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["644F623CF7CC8BDB"]
+			id: "4D7B9D706180B881"
+			rewards: [{
+				count: 3
+				id: "5F0F994314D15825"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "23B70465CDFE2C33"
+				item: "explorerscompass:explorerscompass"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&lKeybinds&r"
+				"` &7to toggle between combat and mining mode"
+				"R &7to roll (requires the epic fight skill book for it)"
+				"middle mouse button &7to lock on targets and sort if inventory is opened"
+				"] &7to open quests"
+				"[ &7to open epic fight skill editor"
+				"Hold C &7to zoom scroll to zoom in and out"
+				". &7to ping something"
+				"` &7to configure your claimed chunks permissions"
+				"F5 &7for third person"
+				"R &7while having mouse cursor on item to know recipe"
+				"U &7while having mouse cursor on item to know uses"
+				"A &7while having mouse cursor on item to pin it"
+				"H &7to interact with carts"
+				"M &7to open map"
+				"B &7to open backpack"
+				"P &7to make a waypoint"
+				"K &7to toggle the shaders"
+				"T &7to toggle trashslot"
+				"- &7to toggle the custom elytra flight&r"
+				"{@pagebreak}"
+				"The Quest chapters are in order from easiest to hardest."
+				""
+				"There are some hidden quest chapters unlocked upon defeating certain bosses etc."
+				""
+				"When looking at an item recipe there are different tabs above."
+				""
+				"If you want to have a crosshair while looking at nothing you can change it in dynamic crosshair config."
+				""
+				"Blood effects on screen or heart beat etc can be disabled in enhanced visuals config."
+				""
+				"The fog on the ground when it's raining can be disabled in pretty rain config."
+				""
+				"You can scroll to read the item tooltip using arrow keys."
+				""
+				"You can claim chunks in the map and after claiming it you can force load it &7Creeper griefing will not affect claimed chunks&r"
+				"Keep in mind it force loaded chunks reset everytime you relog unless you change \"Open Parties and Claims\" config."
+				""
+				"You can make a party top left icon while your inventory is opened. &7you can see your party members on the map&r"
+				"{@pagebreak}"
+				""
+				"Having fps issues?"
+				""
+				"Shader Settings:"
+				"In Oculus, choose Complementary Reimagined + Euphoria patches."
+				"In Shader Pack Settings, go to Performance Settings and set Medium/High to Low/Medium."
+				"Keep Advanced Colored Lighting unchanged."
+				""
+				"General Settings:"
+				"Set render distance to 8-20."
+				"Set shadow and simulation to 8-16. &7always less than render distance by 2 chunks&r"
+				""
+				"Quality Settings:"
+				"Enable Fast Graphics, Fast Clouds, Fast Weather and fast leaves"
+				"Decreased particles."
+			]
+			icon: "minecraft:writable_book"
+			id: "54D9EDAE34569352"
+			rewards: [{
+				id: "3D92651753660976"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:cookie"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "Read it"
+			tasks: [{
+				id: "1BEA600BF97FC1AE"
+				title: "Keybinds"
+				type: "checkmark"
+			}]
+			title: "General Information"
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			disable_toast: true
+			hide_until_deps_complete: true
+			id: "7B3DA8F2F36BDC22"
+			invisible: true
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/curios remove ring @p"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "ftbquests:barrier"
+					id: "452C3CC6C885E48F"
+					silent: true
+					title: "a"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/curios remove belt @p"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "ftbquests:barrier"
+					id: "6EFCCB9A6D02D159"
+					silent: true
+					title: "a"
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/curios remove curio @p"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "ftbquests:barrier"
+					id: "29AE64235DAFC6D4"
+					silent: true
+					title: "a"
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/root"
+				criterion: ""
+				id: "55D6C13156504B6A"
+				type: "advancement"
+			}]
+			title: "a"
+			x: 204.0d
+			y: 108.0d
+		}
+	]
+	title: "&l&fSurvival-Needs&r"
+}

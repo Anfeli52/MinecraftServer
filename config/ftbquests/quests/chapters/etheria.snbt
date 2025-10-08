@@ -1,0 +1,851 @@
+{
+	autofocus_id: "3B845E845FBE6893"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "etheria"
+	group: "3BDABC1977584ED4"
+	id: "5EBAC1ABFB521940"
+	images: [
+		{
+			height: 3.0d
+			image: "etheria:textures/gui/roll_item.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			height: 1.5d
+			image: "etheria:textures/gui/widget/star1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.5d
+			image: "etheria:textures/gui/widget/star1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "etheria:textures/gui/widget/star1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.5d
+			image: "etheria:textures/gui/widget/star1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			height: 1.5d
+			image: "etheria:textures/gui/widget/star1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 3.5d
+			y: -11.0d
+		}
+		{
+			height: 1.5d
+			image: "etheria:textures/gui/widget/star1.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.0d
+			y: -15.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -13.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -14.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -15.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -16.0d
+		}
+		{
+			color: 16716022
+			height: 1.2d
+			image: "goety:textures/entity/night_beacon_beam.png"
+			order: -1
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.0d
+			y: -17.0d
+		}
+		{
+			height: 3.0d
+			image: "etheria:textures/gui/roll_item.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: -18.0d
+		}
+		{
+			height: 1.0d
+			image: "etheria:textures/gui/widget/star4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "etheria:textures/gui/widget/star4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "etheria:textures/gui/widget/star4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -14.0d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 6.0d
+			y: -7.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Everything not explained in this questline can be found in this book"
+				""
+				"(&9It also has a pretty interesting lore so i recommend reading it&f)"
+			]
+			icon: "etheria:magemicon"
+			id: "3B845E845FBE6893"
+			subtitle: "Internal Wiki"
+			tasks: [
+				{
+					id: "00E2974AF31C9E62"
+					item: "etheria:magemicon"
+					type: "item"
+				}
+				{
+					id: "0958A2A6A8F243E1"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3B845E845FBE6893"]
+			description: [
+				"Can be found underground around y = 35"
+				""
+				"(&9Not saying this is the best height but i ran into a lot around this height&f)"
+			]
+			id: "035637C1EE8298A6"
+			subtitle: "Mine an Ether Shard"
+			tasks: [{
+				id: "0658E2889CB537C9"
+				item: "etheria:ether_shard"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["035637C1EE8298A6"]
+			description: ["To extract &5ether &ffrom it you'll need an &6Ether Pedestal &fand an &6Ether Crystal&f."]
+			id: "6CF0A6D9B92D33D9"
+			subtitle: "Observe it"
+			tasks: [{
+				icon: "etheria:ether_source"
+				id: "739622D691DDAADE"
+				observe_type: 0
+				timer: 0L
+				title: "Ether Source"
+				to_observe: "etheria:ether_source"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6CF0A6D9B92D33D9"]
+			id: "064AAE4283947FF2"
+			tasks: [
+				{
+					id: "63443215DD7FDD6F"
+					item: "etheria:ether_crystal"
+					type: "item"
+				}
+				{
+					id: "4B262D309A573925"
+					item: "etheria:ether_pedestal"
+					type: "item"
+				}
+			]
+			title: "Extracting Ether"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["064AAE4283947FF2"]
+			description: ["Extract &5ether&f from a source."]
+			id: "2B14857197E8C5ED"
+			tasks: [{
+				advancement: "etheria:ether_source"
+				criterion: ""
+				id: "2983FB914162FB20"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3B845E845FBE6893"]
+			description: [
+				"It will passively collect &5ether&f from the enviroment during &6night time&f."
+				""
+				"However if another Collector is within a 20 block radius both will stop working."
+			]
+			id: "4F95908B162EDFBD"
+			subtitle: "&5Passive Generation"
+			tasks: [{
+				id: "21A48970B0BC10DB"
+				item: "etheria:ether_collector"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3B845E845FBE6893"]
+			description: [
+				"A convenient way to transfer items through walls."
+				""
+				"To make them work simply place them on chests and &6link them&f using a &6Magic Stick&f."
+				""
+				"Multiple senders can be linked to a single reciever."
+			]
+			id: "1C4DFB1CFDDB3FAF"
+			subtitle: "&5One way transfer"
+			tasks: [
+				{
+					id: "2AB1D8AB6BBDBD52"
+					item: "etheria:ether_sender"
+					type: "item"
+				}
+				{
+					id: "47F2A4DF95F99069"
+					item: "etheria:ether_receiver"
+					type: "item"
+				}
+			]
+			title: "Wireless Item Transfer"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2B14857197E8C5ED"]
+			description: ["The compass used to guide you to the three most important structures of the mod."]
+			id: "6C4F0271E1F84F45"
+			subtitle: "Magic Compass"
+			tasks: [{
+				id: "612EA71F91D766A6"
+				item: "etheria:elemental_emblem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6C4F0271E1F84F45"]
+			description: ["Kor-Lunar is used to level up your magic skills, &6enhance &fyour artifacts and spells&f as well as control your elemental power."]
+			id: "1A34C888998C509A"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "etheria:elemental_emblem"
+					tag: {
+						"etheria$element": "ETHER"
+					}
+				}
+				id: "06DBE86CA7D0920E"
+				structure: "etheria:ether_tree"
+				title: "Find the &5Kor-Lunar"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6C4F0271E1F84F45"]
+			id: "3FEA2F12712710FA"
+			subtitle: "A brush may be useful?"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "etheria:elemental_emblem"
+					tag: {
+						"etheria$element": "CRYO"
+					}
+				}
+				id: "779B3F5A65EB16C8"
+				structure: "etheria:cryo"
+				title: "Find the &bCryo Dungeon"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6C4F0271E1F84F45"]
+			id: "302CF4DAB39CCCE9"
+			subtitle: "A brush may be useful?"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "etheria:elemental_emblem"
+					tag: {
+						"etheria$element": "PYRO"
+					}
+				}
+				id: "7433281E28450622"
+				structure: "etheria:pyro"
+				title: "Find the &4Pyro Dungeon"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["3FEA2F12712710FA"]
+			description: [
+				"You'll find them scattered throughout the dungeon freezing you in a small radius."
+				""
+				"You can temporarily disable them using a &6thawing crystal&f."
+			]
+			id: "1BE02B1B655220B6"
+			tasks: [{
+				icon: "etheria:ice_source"
+				id: "05A4D9BF9842E926"
+				observe_type: 0
+				timer: 0L
+				title: "Ice Sources"
+				to_observe: "etheria:ice_source"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["47B3AC74BA8F576D"]
+			description: ["Place them on the &4Pyro Seal Pedestal&f to extinguish the fire altar."]
+			id: "757EB044D863CE4C"
+			tasks: [
+				{
+					id: "32432EB2C1796F10"
+					item: "etheria:frost_heart"
+					type: "item"
+				}
+				{
+					id: "239B343DADF968B8"
+					item: "etheria:ice_crystal"
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["302CF4DAB39CCCE9"]
+			description: [
+				"Obtained by completing trials in the dungeon."
+				""
+				"Can be used to Gacha at the &6Altar of Fate&f near the dungeon entrance."
+			]
+			id: "094D2DE3CA8C41BC"
+			subtitle: "Gacha?!"
+			tasks: [{
+				id: "15229962E8855516"
+				item: "etheria:blazing_wish"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1BE02B1B655220B6"]
+			description: [
+				"Obtained by completing trials in the dungeon."
+				""
+				"Can be used to Gacha at the &6Altar of Fate&f near the dungeon entrance."
+			]
+			id: "47B3AC74BA8F576D"
+			subtitle: "Gacha?!"
+			tasks: [{
+				id: "5A37B458AC8EB1D7"
+				item: "etheria:frostbound_wish"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["094D2DE3CA8C41BC"]
+			description: ["Place them on the &bCryo Seal Pedestal&f to thaw the ice."]
+			id: "4DF28621939EA082"
+			tasks: [
+				{
+					id: "60419B25240D998D"
+					item: "etheria:fire_seal"
+					type: "item"
+				}
+				{
+					id: "403B3D226ED62CAD"
+					item: "etheria:flame_fragment"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"4DF28621939EA082"
+				"757EB044D863CE4C"
+			]
+			description: ["Don't take it too seriously you can always change it"]
+			id: "45B6B79AFDA87CFB"
+			subtitle: "&4Pyro? &for &bCryo?"
+			tasks: [{
+				id: "713724B6B4B7BABA"
+				item: "etheria:scroll"
+				type: "item"
+			}]
+			title: "Choose an Element"
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			dependencies: [
+				"45B6B79AFDA87CFB"
+				"4DF28621939EA082"
+			]
+			description: ["You can check the required items and their recipes in the &5MageMicon &for JEI."]
+			id: "6CA6F67B95AE2DDB"
+			subtitle: "Items needed for &bCryo Scroll"
+			tasks: [
+				{
+					id: "6A33229FE3AC9DC7"
+					item: "etheria:snow_stone"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "05E9FA4633C757D5"
+					item: { Count: 2, id: "etheria:frost_heart" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "583774801EF64D09"
+					item: { Count: 2, id: "etheria:ice_shard" }
+					type: "item"
+				}
+				{
+					id: "44D9165E8C44180C"
+					item: "etheria:scroll"
+					type: "item"
+				}
+				{
+					id: "4638563D021FB1A7"
+					item: "etheria:rune_wisdom"
+					type: "item"
+				}
+				{
+					id: "7E3DEF5BF6744835"
+					item: "etheria:rune_knowledge"
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6CA6F67B95AE2DDB"]
+			id: "3ED866A39B10AD60"
+			tasks: [{
+				id: "0E88FC852F4ADF7C"
+				item: "etheria:scroll_cryo"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3E575E14CA324F73"]
+			id: "64E152BD92910098"
+			tasks: [{
+				id: "5B21A1265B3766EB"
+				item: "etheria:scroll_pyro"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"45B6B79AFDA87CFB"
+				"757EB044D863CE4C"
+			]
+			id: "3E575E14CA324F73"
+			tasks: [
+				{
+					id: "2D3F080781C1BE72"
+					item: "etheria:emberite"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0230067C3BB3022C"
+					item: { Count: 2, id: "etheria:flame_fragment" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "77157E3A0EE244EC"
+					item: { Count: 2, id: "etheria:charred_crystal" }
+					type: "item"
+				}
+				{
+					id: "7510EAB7C9977782"
+					item: "etheria:scroll"
+					type: "item"
+				}
+				{
+					id: "0D00FED5C4EEC388"
+					item: "etheria:rune_wisdom"
+					type: "item"
+				}
+				{
+					id: "01D7294711019213"
+					item: "etheria:rune_knowledge"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"64E152BD92910098"
+				"3ED866A39B10AD60"
+			]
+			description: [
+				"In order to cast magic you'll need to make/find spell scrolls in the dungeons besides the Magic Stick and an ether storage."
+				""
+				"To cast magic hold &6R &fwhile holding the &6Magic Stick&f in your hand, select the one you need then left click."
+				""
+				"(&9Works in the offhand&f)"
+			]
+			id: "44D3599281EE29A9"
+			rewards: [{
+				id: "4DB154C391ADBC3E"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			tasks: [{
+				id: "16311AF68F787D6F"
+				item: "etheria:magic_stick"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["44D3599281EE29A9"]
+			description: [
+				"Allows you to enhance artifacts and spells and imbue them into weapons."
+				""
+				"To upgrade artifacts use either a &4Flame Fragment &for a &bHeart of Frost&f depending on the element."
+				""
+				"Spells be upgraded with artifacts."
+			]
+			id: "72E8347F860C726A"
+			rewards: [{
+				count: 3
+				id: "00D5792D79F5DDA4"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Further Enhancements"
+			tasks: [{
+				id: "61280200CA77A56F"
+				item: "etheria:ether_anvil"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["3B845E845FBE6893"]
+			description: [
+				"Connects artifacts to the ritual you're performing and activates their ritual related abilites."
+				""
+				"Must be close to the altar"
+			]
+			id: "5BA6920B746B3642"
+			subtitle: "&5Ritual Boost"
+			tasks: [{
+				id: "5F5A6934BB9167C4"
+				item: "etheria:ether_prism"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["72E8347F860C726A"]
+			description: ["Allows you to upgrade ether items into their &5Enigma&f counterpart."]
+			id: "5FA277A7A1C10AB9"
+			rewards: [{
+				count: 3
+				id: "4F1F07F911A3C4D0"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "etheria:ether_fragment"
+				id: "235391AA234B6D25"
+				structure: "etheria:enigma_ruins"
+				title: "Find the &5Enigma Ruins"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["5FA277A7A1C10AB9"]
+			description: ["Holds twice the capacity of it's ether counterpart."]
+			id: "03626A8B1168275A"
+			rewards: [{
+				count: 5
+				id: "72992739A36EC8F8"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D5CB37D9BF32994"
+				item: {
+					Count: 1
+					id: "etheria:enigma_orb"
+					tag: {
+						ether: 1600
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -16.5d
+		}
+	]
+	title: "&l&fEtheria&r"
+}

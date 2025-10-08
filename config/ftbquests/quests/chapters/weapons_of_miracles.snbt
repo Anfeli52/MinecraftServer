@@ -1,0 +1,428 @@
+{
+	autofocus_id: "11A8960860F2FCC7"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "weapons_of_miracles"
+	group: "59FA2E224FC441CB"
+	id: "76BD5E577371E87E"
+	images: [
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/demonic_ascension.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/solar_arcano.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/ender_blast.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/sakura_state.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/lunar_eclipse.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/regierung.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/plunder_perdition.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/true_berserk.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "wom:textures/gui/skills/agony_plunge.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 4.0d
+			y: 2.5d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["You can find this in (&9Vanilla&f) Dungeon chests with a &610% &fchance."]
+			id: "6D265B1BE0A7D6EA"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "3D5E5EC72F31B81A"
+				item: {
+					Count: 1
+					id: "wom:agony"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			description: ["You can find this in Pillager Outposts with a &65% &fchance or in Woodland Mansions with a &610% &fchance."]
+			id: "1B49825A86866357"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "42B3885B392CD953"
+				item: {
+					Count: 1
+					id: "wom:tormented_mind"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			description: ["You can find this in Strongholds with a &610% &fchance in corridors and crossings."]
+			id: "404D43B61331210E"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "32F820E69EF700AF"
+				item: {
+					Count: 1
+					id: "wom:ruine"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			description: ["You can find this in End Citys with a &65% &fchance."]
+			id: "7BC620C051CA461C"
+			shape: "square"
+			size: 1.0d
+			subtitle: "Get 2 because why not?"
+			tasks: [{
+				count: 2L
+				id: "6A653BF127938FF7"
+				item: {
+					Count: 2
+					id: "wom:ender_blaster"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"76102AE9D90FF422"
+				"09D2C687DFAEB941"
+			]
+			description: ["This is a &6craftable &fweapon from a Demon Seal and a Nether Star."]
+			id: "181CFEAD075DEFD5"
+			shape: "square"
+			size: 1.0d
+			subtitle: "Coolest looking weapon from the mod"
+			tasks: [{
+				id: "0F661A6776139813"
+				item: {
+					Count: 1
+					id: "wom:antitheus"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"76102AE9D90FF422"
+				"74768097B295FC66"
+			]
+			description: ["This is a &6craftable &fweapon from a Demon Seal and an Uchigatana."]
+			id: "09F9478A176E9FB3"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "6A9E87958178CE79"
+				item: {
+					Count: 1
+					id: "wom:satsujin"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			description: ["You can find this in Underwater Ruins with a &62% &fchance in a small ruins and a &65% &fin big ones."]
+			id: "09734E809BF50E8A"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "09F8DB6160EB4DDD"
+				item: {
+					Count: 1
+					id: "wom:herrscher"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			description: ["You can find this in Underwater Ruins with a &62% &fchance in a small ruins and a &65% &fin big ones."]
+			id: "5F00867F9A9A67BE"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "085B7E9A00E38453"
+				item: {
+					Count: 1
+					id: "wom:gesetz"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"09734E809BF50E8A"
+				"5F00867F9A9A67BE"
+			]
+			description: ["Equipping both unlocks a special moveset allowing you to use Herrscher to it's full potential."]
+			id: "06814481F864D39B"
+			shape: "square"
+			size: 1.0d
+			tasks: [
+				{
+					id: "5533DB8700349106"
+					item: {
+						Count: 1
+						id: "wom:herrscher"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "270722AB40740322"
+					item: {
+						Count: 1
+						id: "wom:gesetz"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Herrscher and Gesetz"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			description: ["You can find this in Desert Temples with a &65% &fchance in each chest."]
+			id: "11A8960860F2FCC7"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "120E10E69157DD57"
+				item: {
+					Count: 1
+					id: "wom:moonless"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["439E6A8727CA57E7"]
+			description: ["This is a &6craftable &fweapon from a Book of Eternal Fire and 5 Netherite ingots."]
+			id: "008DC07FD535BF22"
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "33788D0FEFDF8986"
+				item: {
+					Count: 1
+					id: "wom:solar"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			description: ["You can find Demon Seals in Nether Fortresses with a &65% &fchance and in Bastions with a &610% &fchance."]
+			id: "76102AE9D90FF422"
+			tasks: [{
+				id: "55F8B52C592B8D64"
+				item: "wom:demon_seal"
+				type: "item"
+			}]
+			x: -4.25d
+			y: 3.0d
+		}
+		{
+			id: "09D2C687DFAEB941"
+			subtitle: "I dont need to explain this do i?"
+			tasks: [{
+				id: "2A0A2631FFA4EFA7"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			description: ["Drops from blazes with a &65% &fchance."]
+			id: "439E6A8727CA57E7"
+			tasks: [{
+				id: "709C58381A25B871"
+				item: "wom:eternal_fire_arcane"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			description: ["You can find this in Desert Temples."]
+			id: "74768097B295FC66"
+			tasks: [{
+				id: "2DAD3C1301F561D8"
+				item: {
+					Count: 1
+					id: "epicfight:uchigatana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Lupus Aureum"
+				""
+				"A powerful giant golden wolf companion for your greatest adventures."
+				""
+				"You can find him in Old Growth Taiga biomes."
+				""
+				"He can spawn as an adult or baby with equal chance."
+				"{@pagebreak}"
+				"If he is an adult you have to beat him until he reaches &630% hp &fonce this threshold is passed he will start panting."
+				""
+				"In this state you will be able to feed him with an Enchanted Golden Apple which will make him take an Oath of Allegiance to you."
+				""
+				"You can't damage him while he's panting but he can die if he is suffering from other types of damage (fire, poison, wither ....)."
+				"{@pagebreak}"
+				"If you find him as a baby you'll have to play with him."
+				""
+				"To do so you have to enter play-mode by sneaking and standing still near him. In play-mode he will try to mimic you:"
+				""
+				"By jumping he will try to jump too (&9His jump height is dependent on his jump power&f)."
+				""
+				"By running around him he will try run around you (&9His running speed is dependent on his movement speed. You can also do a 360° around yourself&f)."
+				""
+				"By performing any dodge (&9step, roll, enderstep ...&f) he will try dodge."
+				""
+				"You may need multiple attempt for him to learn each trick. Once they are all learned you'll be able to feed him with an Enchanted Golden Apple which will make him take an Oath of Allegiance to you."
+				""
+				"(&9Tamed this way will make your pupper playful and he will keep this ability to play with you as an adult&f)"
+			]
+			id: "0000795A1620FB21"
+			tasks: [{
+				id: "1847710196F7A595"
+				observe_type: 5
+				timer: 0L
+				to_observe: "wom:lupus_rex"
+				type: "observation"
+			}]
+			title: "Observe a gold pupper"
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+	title: "&l&eWeapons-Of-Miracles&r"
+}

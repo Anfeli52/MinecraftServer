@@ -1,0 +1,675 @@
+{
+	icon: {
+		Count: 1
+		id: "epicfight:skillbook"
+		tag: {
+			skill: "sword_soaring:rain_cutter"
+		}
+	}
+	id: "7B0F0D8D20374C47"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Rain Cutter\"}"
+					}
+					skill: "sword_soaring:rain_cutter"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Rain Screen\"}"
+					}
+					skill: "sword_soaring:rain_screen"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Stellar Restoration\"}"
+					}
+					skill: "sword_soaring:stellar_restoration"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Sword Soaring\"}"
+					}
+					skill: "sword_soaring:sword_soaring"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Berserker\"}"
+					}
+					skill: "epicfight:berserker"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Death Harvest\"}"
+					}
+					skill: "epicfight:death_harvest"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Demolition Leap\"}"
+					}
+					skill: "epicfight:demolition_leap"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Emergency Escape\"}"
+					}
+					skill: "epicfight:emergency_escape"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Endurance\"}"
+					}
+					skill: "epicfight:endurance"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Forbidden Strength\"}"
+					}
+					skill: "epicfight:forbidden_strength"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Guard\"}"
+					}
+					skill: "epicfight:guard"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Hyper Vitality\"}"
+					}
+					skill: "epicfight:hypervitality"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Impact Guard\"}"
+					}
+					skill: "epicfight:impact_guard"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Meteor Slam\"}"
+					}
+					skill: "epicfight:meteor_slam"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Parrying\"}"
+					}
+					skill: "epicfight:parrying"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Phantom Ascent\"}"
+					}
+					skill: "epicfight:phantom_ascent"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Revelation\"}"
+					}
+					skill: "epicfight:revelation"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Roll\"}"
+					}
+					skill: "epicfight:roll"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Stamina Pillager\"}"
+					}
+					skill: "epicfight:stamina_pillager"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Step\"}"
+					}
+					skill: "epicfight:step"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Swordmaster\"}"
+					}
+					skill: "epicfight:swordmaster"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Technician\"}"
+					}
+					skill: "epicfight:technician"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Blood Wolf\"}"
+					}
+					skill: "cdmoveset:bloodwolf"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Better Step\"}"
+					}
+					skill: "cdmoveset:bstep"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Fatal Flash\"}"
+					}
+					skill: "cdmoveset:fatalfalsh"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Wolf God Leap\"}"
+					}
+					skill: "cdmoveset:wolf_dodge"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Phantom\"}"
+					}
+					skill: "cdmoveset:yamato_step"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Adrenanline\"}"
+					}
+					skill: "wom:adrenaline"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Aqua Maneuver\"}"
+					}
+					skill: "wom:aqua_maneuvre"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Arrow Tenacity\"}"
+					}
+					skill: "wom:arrow_tenacity"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Back and ... FORTH !\"}"
+					}
+					skill: "wom:back_and_forth"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Ectoplasmic Phase\"}"
+					}
+					skill: "wom:bi_phased"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Ravanger Force\"}"
+					}
+					skill: "wom:bull_charge"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Counter Attack\"}"
+					}
+					skill: "wom:counter_attack"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Critical Knowledge\"}"
+					}
+					skill: "wom:critical_knowledge"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Dancing Blade\"}"
+					}
+					skill: "wom:dancing_blade"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Dodge Master\"}"
+					}
+					skill: "wom:dodge_master"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Ender Obscuris\"}"
+					}
+					skill: "wom:ender_obscuris"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Ender Step\"}"
+					}
+					skill: "wom:ender_step"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Heart Shield\"}"
+					}
+					skill: "wom:heart_shield"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Meditation\"}"
+					}
+					skill: "wom:meditation"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Mindset\"}"
+					}
+					skill: "wom:mindset"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Latent Retribution\"}"
+					}
+					skill: "wom:latent_retribution"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Pain Anticipation\"}"
+					}
+					skill: "wom:pain_anticipation"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Perfect Bulwark\"}"
+					}
+					skill: "wom:perfect_bulwark"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Precise Roll\"}"
+					}
+					skill: "wom:precise_roll"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Punishment Kick\"}"
+					}
+					skill: "wom:punishment_kick"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Shadow Step\"}"
+					}
+					skill: "wom:shadow_step"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Shulker Cloak\"}"
+					}
+					skill: "wom:shulker_cloak"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Soul Protection\"}"
+					}
+					skill: "wom:soul_protection"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Spider Techniques\"}"
+					}
+					skill: "wom:spider_techniques"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Time Travel\"}"
+					}
+					skill: "wom:time_travel"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Voodoo Magic\"}"
+					}
+					skill: "wom:voodoo_magic"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Vengeful Parry\"}"
+					}
+					skill: "wom:vengeful_parry"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "epicfight:skillbook"
+				tag: {
+					display: {
+						Name: "{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"#FFFFFF\",\"text\":\"Vampirize\"}"
+					}
+					skill: "wom:vampirize"
+				}
+			}
+		}
+	]
+	title: "Skillbooks"
+}

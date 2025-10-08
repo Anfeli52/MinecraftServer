@@ -1,0 +1,17 @@
+{
+	id: "033ab171-3150-322b-9196-c780f1608a38"
+	type: "player"
+	player_name: "THDrako172"
+	ranks: {
+		033ab171-3150-322b-9196-c780f1608a38: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "THDrako172"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

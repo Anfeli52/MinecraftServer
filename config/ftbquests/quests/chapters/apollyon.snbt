@@ -1,0 +1,253 @@
+{
+	autofocus_id: "5CC61827C1762CF5"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "apollyon"
+	group: "396150E4AFECA7AD"
+	icon: {
+		Count: 1
+		id: "goety_revelation:revelation"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "736B3DB97F287F42"
+	images: [
+		{
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			rotation: -120.0d
+			width: 20.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			rotation: 120.0d
+			width: 20.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			rotation: 90.0d
+			width: 20.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			order: 1
+			rotation: 0.0d
+			width: 20.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: -1.0d
+			y: -0.5d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2129027DAA1584A2"]
+			description: [
+				"Summoned Using Sabbath Ritual"
+				""
+				"(&9The next pages show how to obtain each item..... I dont need to explain vanilla ones do i?&f)"
+				"{@pagebreak}"
+				"- Warlock Sash is &6craftable"
+				""
+				"- Infernal Tome is from &6Heretic Drop &for&6 Adept Nether Ritual"
+				""
+				"- Heart of the Night is from &6Necroturgy Ritual"
+				""
+				"- Unholy Blood is from the &6Apostle Boss"
+				""
+				"- Witch Hat is &6craftable"
+				"{@pagebreak}"
+				"- Crone Hat is from the &6Crone Boss"
+				""
+				"- Forbidden Scroll is &6findable in chests &f(&9in pieces&f)"
+				""
+				"- Essence of Shadow is from the &6Wight Boss&f (&9Summoned using Sabbath Ritual and need 4 crypt stone)"
+				""
+				"- Ruby of Soul is from the &6Vizier Boss"
+				""
+				"- Broken Halo is from the &6Apostle Boss &for &6Expert Nether Ritual"
+				"{@pagebreak}"
+				"(&9In case you couldn't get one from the dragon you can also get dragon breath from the villager who has the &6Purpur Altar&f workstation&f)"
+			]
+			hide_until_deps_complete: true
+			icon: "goety_revelation:ascension_halo"
+			id: "5CC61827C1762CF5"
+			rewards: [{
+				count: 32
+				id: "01B9EDB28A365271"
+				item: "soulsweapons:chungus_emerald_block"
+				type: "item"
+			}]
+			subtitle: "&4&l&oAre you sure you're ready?"
+			tasks: [
+				{
+					id: "72ACA92B002E07E0"
+					item: "goety:warlock_sash"
+					type: "item"
+				}
+				{
+					id: "6C4007A56594D005"
+					item: {
+						Count: 1
+						id: "goety:infernal_tome"
+						tag: {
+							"Chant Times": 0
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0746F93D2E1E980C"
+					item: "goety:heart_of_the_night"
+					type: "item"
+				}
+				{
+					id: "2741A3920B198F86"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "0AFB1F98C10FB641"
+					item: "goety:unholy_blood"
+					type: "item"
+				}
+				{
+					id: "076858FCBDED289B"
+					item: "minecraft:dragon_breath"
+					type: "item"
+				}
+				{
+					id: "62ED2409A249A5AE"
+					item: "goety:witch_hat"
+					type: "item"
+				}
+				{
+					id: "5C4C6B65CD6A4DFD"
+					item: "goety:forbidden_scroll"
+					type: "item"
+				}
+				{
+					id: "215DF9A9A2CA9F13"
+					item: "goety:shadow_essence"
+					type: "item"
+				}
+				{
+					id: "2AFC7D449D39784F"
+					item: "goety:soul_ruby"
+					type: "item"
+				}
+				{
+					id: "1AF01DE33E4C918D"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "7A787DE8A3050F5D"
+					item: "goety:crone_hat"
+					type: "item"
+				}
+				{
+					id: "76FFE69CE089B944"
+					item: "goety_revelation:broken_halo"
+					type: "item"
+				}
+				{
+					id: "17A09581E34B9563"
+					item: "goety_revelation:ascension_halo"
+					title: "Boss drop?"
+					type: "item"
+				}
+			]
+			title: "&4&l&nApollyon"
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5CC61827C1762CF5"]
+			description: [
+				"Medal of doom in the middle and the rest around it"
+				"&7obviously do it in the nether&r"
+				"&8you have been warned this guy is no joke. The hardcore killer.&r"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "goety_revelation:revelation"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5CAA7358AB544ED4"
+			rewards: [{
+				id: "75067800325CD2A8"
+				item: "goety_revelation:revelation_focus"
+				type: "item"
+			}]
+			subtitle: "&4&l&oYOU THOUGHT THIS WAS ALL?"
+			tasks: [
+				{
+					id: "0EE0D7AA9C92D4B0"
+					item: "goety:witch_hat"
+					type: "item"
+				}
+				{
+					id: "02E09805C25F20FB"
+					item: "goety:crone_hat"
+					type: "item"
+				}
+				{
+					id: "413A5EE443918AF3"
+					item: "goety_revelation:doom_medal"
+					type: "item"
+				}
+				{
+					id: "4858B274294081DF"
+					item: "goety:warlock_sash"
+					type: "item"
+				}
+				{
+					id: "5AF7CF60AC144356"
+					item: "goety:warlock_sash"
+					type: "item"
+				}
+				{
+					id: "367C15954A7E015E"
+					item: {
+						Count: 1
+						id: "goety_revelation:revelation"
+						tag: {
+							Damage: 0
+						}
+					}
+					title: "Boss drop?"
+					type: "item"
+				}
+			]
+			title: "&4&l&nNether Apollyon"
+			x: -1.0d
+			y: -0.5d
+		}
+	]
+	title: "&4&l&nApollyon"
+}

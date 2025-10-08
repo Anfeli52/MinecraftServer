@@ -1,0 +1,86 @@
+{
+	icon: "plushie_buddies:plushie_sniffer"
+	id: "452EE5AA56295A3D"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "plushie_buddies:plushie_camel" }
+		{ item: "plushie_buddies:plushie_breeze" }
+		{ item: "plushie_buddies:plushie_blaze" }
+		{ item: "plushie_buddies:plushie_bee" }
+		{ item: "plushie_buddies:plushie_bat" }
+		{ item: "plushie_buddies:plushie_axolotl" }
+		{ item: "plushie_buddies:plushie_armadillo" }
+		{ item: "plushie_buddies:plushie_allay" }
+		{ item: "plushie_buddies:plushie_cat" }
+		{ item: "plushie_buddies:plushie_cave_spider" }
+		{ item: "plushie_buddies:plushie_chicken" }
+		{ item: "plushie_buddies:plushie_cow" }
+		{ item: "plushie_buddies:plushie_creeper" }
+		{ item: "plushie_buddies:plushie_dolphin" }
+		{ item: "plushie_buddies:plushie_donkey" }
+		{ item: "plushie_buddies:plushie_drowned" }
+		{ item: "plushie_buddies:plushie_elder_guardian" }
+		{ item: "plushie_buddies:plushie_goat" }
+		{ item: "plushie_buddies:plushie_glow_squid" }
+		{ item: "plushie_buddies:plushie_guardian" }
+		{ item: "plushie_buddies:plushie_ghast" }
+		{ item: "plushie_buddies:plushie_frog" }
+		{ item: "plushie_buddies:plushie_fox" }
+		{ item: "plushie_buddies:plushie_evoker" }
+		{ item: "plushie_buddies:plushie_enderman" }
+		{ item: "plushie_buddies:plushie_enderdragon" }
+		{ item: "plushie_buddies:plushie_horse" }
+		{ item: "plushie_buddies:plushie_hoglin" }
+		{ item: "plushie_buddies:plushie_husk" }
+		{ item: "plushie_buddies:plushie_magma_cube" }
+		{ item: "plushie_buddies:plushie_mooshroom" }
+		{ item: "plushie_buddies:plushie_mule" }
+		{ item: "plushie_buddies:plushie_peter" }
+		{ item: "plushie_buddies:plushie_panda" }
+		{ item: "plushie_buddies:plushie_parrot" }
+		{ item: "plushie_buddies:plushie_phantom" }
+		{ item: "plushie_buddies:plushie_ravanger" }
+		{ item: "plushie_buddies:plushie_rabbit" }
+		{ item: "plushie_buddies:plushie_pillager" }
+		{ item: "plushie_buddies:plushie_pufferfish" }
+		{ item: "plushie_buddies:plushie_piglin_brute" }
+		{ item: "plushie_buddies:plushie_piglin" }
+		{ item: "plushie_buddies:plushie_strider" }
+		{ item: "plushie_buddies:plushie_stray" }
+		{ item: "plushie_buddies:plushie_squid" }
+		{ item: "plushie_buddies:plushie_skeleton" }
+		{ item: "plushie_buddies:plushie_slime" }
+		{ item: "plushie_buddies:plushie_shulker" }
+		{ item: "plushie_buddies:plushie_pig" }
+		{ item: "plushie_buddies:plushie_sheep" }
+		{ item: "plushie_buddies:plushie_skeleton_horse" }
+		{ item: "plushie_buddies:plushie_polar_bear" }
+		{ item: "plushie_buddies:plushie_vex" }
+		{ item: "plushie_buddies:plushie_iron_golem" }
+		{ item: "plushie_buddies:plushie_llama" }
+		{ item: "plushie_buddies:plushie_spider" }
+		{ item: "plushie_buddies:plushie_trader_lama" }
+		{ item: "plushie_buddies:plushie_turtle" }
+		{ item: "plushie_buddies:plushie_sniffer" }
+		{ item: "plushie_buddies:plushie_villager" }
+		{ item: "plushie_buddies:plushie_warden" }
+		{ item: "plushie_buddies:plushie_wandering_trader" }
+		{ item: "plushie_buddies:plushie_witch" }
+		{ item: "plushie_buddies:plushie_vindicator" }
+		{ item: "plushie_buddies:plushie_wither" }
+		{ item: "plushie_buddies:plushie_wither_skeleton" }
+		{ item: "plushie_buddies:plushie_wolf" }
+		{ item: "plushie_buddies:plushie_dan_rolo" }
+		{ item: "plushie_buddies:plushie_yoga" }
+		{ item: "plushie_buddies:plushie_emperor" }
+		{ item: "plushie_buddies:plushie_chewie" }
+		{ item: "plushie_buddies:plushie_zombified_piglin" }
+		{ item: "plushie_buddies:plushie_zombie" }
+		{ item: "plushie_buddies:plushie_zoglin" }
+		{ item: "plushie_buddies:plushie_storm_soldier" }
+		{ item: "plushie_buddies:plushie_zombie_villager" }
+		{ item: "plushie_buddies:plushie_dark_father" }
+	]
+	title: "Plushies"
+}

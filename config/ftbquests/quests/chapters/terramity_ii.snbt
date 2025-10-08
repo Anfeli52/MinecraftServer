@@ -1,0 +1,322 @@
+{
+	autofocus_id: "3C24565140DE779A"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "terramity_ii"
+	group: "59FA2E224FC441CB"
+	id: "79EBBBF050BF8005"
+	images: [
+		{
+			color: 10290706
+			height: 15.0d
+			image: "terramity:textures/entities/shadowflame_ring.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 0.0d
+			y: -3.0d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1A7701358F28775C"]
+			id: "4E1383B141982D04"
+			optional: true
+			tasks: [{
+				id: "4E40E44F8A697B36"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:iridium_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:iridium_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:iridium_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:iridium_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Iridium Tools"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["720E23DCB8E9A82E"]
+			description: [
+				"Once you have acquired a Tier 1 Pickaxe you can now start mining Iridium."
+				""
+				"&dIridium &fsimilar to Netherite is needed a ton due to it being the base for items such as Spectral Souls which are used to duplicate Black Matter and every Tier 2 Bar."
+				""
+				"&dIridium &fgenerates in every dimension as well as being found in structures such as the Trial Spire and Chthonic Dungeon."
+				"{@pagebreak}"
+				"Mining Iridium Ore with a non-silk touch pickaxe gets you an Iridium Chunk combine 4 Iridium Chunks to make an Iridium Ingot."
+				""
+				"Obtaining Iridium Ore itself with a &6silk touch&f pickaxe allows you to smelt it into Iridium Ingots being much more efficient than just mining for Iridium Chunks."
+			]
+			icon: "terramity:iridium"
+			id: "1A7701358F28775C"
+			subtitle: "Finish the last quest in Terramity_i to unlock"
+			tasks: [
+				{
+					id: "0BFBDF69A440B373"
+					item: "terramity:iridium"
+					type: "item"
+				}
+				{
+					id: "7D2482A2CA3A0097"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			title: "Tier 1.5"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A7701358F28775C"]
+			id: "34C2AA103214C77F"
+			tasks: [{
+				id: "5E7EBFD54ED9E2B4"
+				item: "terramity:spectral_soul"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A7701358F28775C"]
+			id: "423B02C82E1E41E5"
+			tasks: [
+				{
+					id: "0DB4CC3F12D3C15C"
+					item: {
+						Count: 1
+						id: "terramity:iridium_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "403808E656C286B9"
+					item: {
+						Count: 1
+						id: "terramity:iridium_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7053F7F8D0EE3394"
+					item: {
+						Count: 1
+						id: "terramity:iridium_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "504A316277F9E42E"
+					item: {
+						Count: 1
+						id: "terramity:iridium_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Iridium Armor"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1A7701358F28775C"]
+			id: "3C24565140DE779A"
+			tasks: [{
+				id: "5F1CB2F368221B31"
+				item: {
+					Count: 1
+					id: "terramity:iridium_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Tier 1.5 Pickaxe"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3C24565140DE779A"]
+			description: [
+				"Trial Guardian is the second Boss in Terramity's progression."
+				""
+				"It drops templates for the Tier 2 materials of Void Metal, Conductite and Hellspec as well as various "
+				"Gems and Souls."
+				""
+				"Trial Guardian can be spawned by inserting a Spire Key at the lock at the basement of the Trial Tower."
+			]
+			id: "2932C7DEBC10B9D3"
+			tasks: [{
+				entity: "terramity:trial_guardian"
+				icon: {
+					Count: 1
+					id: "terramity:perish_staff"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "16E9FD2EDDD72A61"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2932C7DEBC10B9D3"]
+			id: "647ED4D865B8F046"
+			tasks: [{
+				id: "5F2301A029B74BF1"
+				item: "terramity:void_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Void Smithing Template"
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2932C7DEBC10B9D3"]
+			id: "1F4C559AA247155B"
+			tasks: [{
+				id: "701471AC92570611"
+				item: "terramity:conductite_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Conductite Smithing Template"
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["2932C7DEBC10B9D3"]
+			id: "5719F8A117BCD563"
+			tasks: [{
+				id: "1242E0161F72B197"
+				item: "terramity:hellspec_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Hellspec Smithing Template"
+			x: -2.0d
+			y: -6.0d
+		}
+	]
+	title: "&l&eTerramity_ii&r"
+}

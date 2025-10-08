@@ -1,0 +1,25 @@
+{
+	icon: "mutated_items:torchy_spawn_egg"
+	id: "4A03974B6AD6D180"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "mutated_items:furnace_golem_spawn_egg" }
+		{ item: "mutated_items:quartz_crab_spawn_egg" }
+		{ item: "mutated_items:shear_ant_spawn_egg" }
+		{ item: "mutated_items:redstone_bug_spawn_egg" }
+		{ item: "mutated_items:living_totem_spawn_egg" }
+		{ item: "mutated_items:dragon_breath_man_spawn_egg" }
+		{ item: "mutated_items:cauldron_bud_spawn_egg" }
+		{ item: "mutated_items:fire_fox_spawn_egg" }
+		{ item: "mutated_items:torchy_spawn_egg" }
+		{ item: "mutated_items:spawning_hutch_spawn_egg" }
+		{ item: "mutated_items:straw_dummy_spawn_egg" }
+		{ item: "mutated_items:slimy_bear_spawn_egg" }
+		{ item: "mutated_items:cursed_tome_spawn_egg" }
+		{ item: "mutated_items:ender_hull_spawn_egg" }
+		{ item: "mutated_items:end_hammerhead_shark_spawn_egg" }
+		{ item: "mutated_items:echo_despoiler_spawn_egg" }
+	]
+	title: "Mutated Items"
+}

@@ -1,0 +1,69 @@
+{
+	icon: {
+		Count: 1
+		id: "wom:moonless"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "7BCD071366125365"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "wom:gesetz"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wom:moonless"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wom:herrscher"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wom:tormented_mind"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wom:agony"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wom:ruine"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "Weapons of miracles"
+}

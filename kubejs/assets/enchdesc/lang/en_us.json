@@ -1,0 +1,19 @@
+{
+    "enchantment.terramity.bottomless_magazine.desc": "Increases max ammo for some guns. The amount added is different for each gun.",
+    "enchantment.terramity.curse_of_misfiring.desc": "x2 the recoil from any gun.",
+    "enchantment.terramity.gentle_explosives.desc": "Removes the griefing from rocket launchers type weapons.",
+    "enchantment.terramity.leadfoot.desc": "Removes recoil.",
+    "enchantment.terramity.lucky_blanks.desc": "Saves some ammo upon reloading.",
+    "enchantment.terramity.narrowed_pellets.desc": "Reduces the spread of shotguns.",
+    "enchantment.terramity.overclocked.desc": "Increases fire rate on railgun type guns.",
+    "enchantment.terramity.quicker_cooling.desc": "Cooldown reduction on railgun type guns by 12% each level.",
+    "enchantment.terramity.rapid_reload.desc": "Increases reload speed.",
+    "enchantment.terramity.semi_auto.desc": "Makes rifles, shotguns, and sniper rifles semi automatic. Rifles also get increased damage.",
+    "enchantment.terramity.sharper_rounds.desc": "Increases bullet damage.",
+    "enchantment.terramity.slug_conversion.desc": "Changes a shotgun's fire to a single shot that does more damage.",
+    "enchantment.cthulhufishing.sculk_catcher_enchantment.desc": "for sculk fish",
+    "enchantment.cthulhufishing.crimson_catcher_enchant.desc": "for crimson fish",
+    "enchantment.cthulhufishing.power_of_the_extinct.desc": "can be applied to melee weapons If the target is on fire, you remove fire from it and deal % magic damage (scaling with your attack damage attribute and enchantment level)",
+    "enchantment.cthulhufishing.mushroom_catcher_enchantment.desc": "for mushroom fish",
+    "enchantment.cthulhufishing.frozen_catcher_enchantment.desc": "for frozen fish"
+}

@@ -1,0 +1,325 @@
+[
+    {
+        "mob": "majruszsdifficulty:giant",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "bygonenether:wither_skeleton_horse",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "crittersandcompanions:otter",
+        "mincount": 15,
+        "result": "deny"
+    },
+    {
+        "mob": "untitledduckmod:duck",
+        "mincount": 15,
+        "result": "deny"
+    },
+    {
+        "mob": ["crittersandcompanions:otter"],
+        "random": 0.8,
+        "result": "deny"
+    },
+    {
+        "mob": ["crittersandcompanions:dragonfly"],
+        "random": 0.1,
+        "result": "deny"
+    },
+    {
+        "mob": ["untitledduckmod:goose"],
+        "random": 0.1,
+        "result": "deny"
+    },
+    {
+        "mob": ["minecraft:squid"],
+        "random": 0.5,
+        "result": "deny"
+    },
+	{
+        "mob": ["macabre:morphegor"],
+        "when": "finalize",
+        "result": "default",
+		"difficulty": "hard",
+        "healthmultiply": 2,
+        "damagemultiply": 2,
+        "speedmultiply": 2,
+        "armormultiply": 3,
+		"armortoughnessmultiply": 3
+   },
+   {
+        "mob": ["macabre:morphegor_split"],
+        "when": "finalize",
+        "result": "default",
+		"difficulty": "hard",
+        "healthmultiply": 4,
+        "damagemultiply": 3,
+        "speedmultiply": 2,
+        "armormultiply": 4,
+		"armortoughnessmultiply": 4
+  },
+  {
+        "mob": ["macabre:baal"],
+        "when": "finalize",
+        "result": "default",
+		"difficulty": "hard",
+        "healthmultiply": 5,
+        "damagemultiply": 12,
+        "speedmultiply": 2,
+        "armormultiply": 5,
+		"armortoughnessmultiply": 5
+  },
+  {
+        "mob": ["macabre:gomoria"],
+        "when": "finalize",
+        "result": "default",
+		"difficulty": "hard",
+        "healthmultiply": 3,
+        "damagemultiply": 5,
+        "speedmultiply": 2,
+        "armormultiply": 5,
+		"armortoughnessmultiply": 5
+  },
+  {
+        "mob": ["macabre:valamon"],
+        "when": "finalize",
+        "result": "default",
+		"difficulty": "hard",
+        "healthmultiply": 3,
+        "damagemultiply": 3,
+        "armormultiply": 3,
+		"armortoughnessmultiply": 3
+  },
+  {
+        "mob": ["macabre:gargamaw"],
+        "when": "finalize",
+        "result": "default",
+		"difficulty": "hard",
+        "healthmultiply": 5,
+        "damagemultiply": 6,
+        "speedmultiply": 2,
+        "armormultiply": 5,
+		"armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["macabre:morphegor"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5,
+    "speedmultiply": 2,
+    "armormultiply": 3,
+    "armortoughnessmultiply": 3
+    },
+    {
+    "mob": ["macabre:morphegor_split"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 3,
+    "damagemultiply": 2,
+    "speedmultiply": 2,
+    "armormultiply": 4,
+    "armortoughnessmultiply": 4
+    },
+    {
+    "mob": ["macabre:baal"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 4,
+    "damagemultiply": 8,
+    "speedmultiply": 2,
+    "armormultiply": 5,
+    "armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["macabre:gomoria"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 2,
+    "damagemultiply": 4,
+    "speedmultiply": 2,
+    "armormultiply": 5,
+    "armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["macabre:valamon"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 2,
+    "damagemultiply": 2,
+    "armormultiply": 3,
+    "armortoughnessmultiply": 3
+    },
+    {
+    "mob": ["macabre:gargamaw"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 4,
+    "damagemultiply": 5,
+    "speedmultiply": 2,
+    "armormultiply": 5,
+    "armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["macabre:morphegor"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 1.2,
+    "damagemultiply": 1.2,
+    "speedmultiply": 2,
+    "armormultiply": 3,
+    "armortoughnessmultiply": 3
+    },
+    {
+    "mob": ["macabre:morphegor_split"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 2,
+    "damagemultiply": 1.5,
+    "speedmultiply": 2,
+    "armormultiply": 4,
+    "armortoughnessmultiply": 4
+    },
+    {
+    "mob": ["macabre:baal"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 3,
+    "damagemultiply": 6,
+    "speedmultiply": 2,
+    "armormultiply": 5,
+    "armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["macabre:gomoria"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 1.5,
+    "damagemultiply": 3,
+    "speedmultiply": 2,
+    "armormultiply": 5,
+    "armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["macabre:valamon"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5,
+    "armormultiply": 3,
+    "armortoughnessmultiply": 3
+    },
+    {
+    "mob": ["macabre:gargamaw"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 3,
+    "damagemultiply": 4,
+    "speedmultiply": 2,
+    "armormultiply": 5,
+    "armortoughnessmultiply": 5
+    },
+    {
+    "mob": ["minecraft:ender_dragon"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "hard",
+    "healthmultiply": 2,
+    "damagemultiply": 3,
+    "speedmultiply": 1,
+    "armormultiply": 2,
+    "armortoughnessmultiply": 2
+    },
+    {
+    "mob": ["minecraft:ender_dragon"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 1.5,
+    "damagemultiply": 2,
+    "speedmultiply": 1,
+    "armormultiply": 2,
+    "armortoughnessmultiply": 2
+    },
+    {
+    "mob": ["infinitygolem:infinity_golem"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "hard",
+    "healthmultiply": 1.2,
+    "damagemultiply": 2,
+    "speedmultiply": 1,
+    "armormultiply": 1,
+    "armortoughnessmultiply": 1
+    },
+    {
+    "mob": ["infinitygolem:infinity_golem"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 1.1,
+    "damagemultiply": 1.5,
+    "speedmultiply": 1,
+    "armormultiply": 1,
+    "armortoughnessmultiply": 1
+    },
+    {
+    "mob": ["infinitygolem:infinity_golem"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 1,
+    "damagemultiply": 1.2,
+    "speedmultiply": 1,
+    "armormultiply": 1,
+    "armortoughnessmultiply": 1
+    },
+    {
+    "mob": ["terramity:ultra_sniffer"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "easy",
+    "healthmultiply": 1,
+    "damagemultiply": 0.6,
+    "speedmultiply": 1,
+    "armormultiply": 1,
+    "armortoughnessmultiply": 1
+    },
+    {
+    "mob": ["terramity:ultra_sniffer"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "normal",
+    "healthmultiply": 1,
+    "damagemultiply": 0.6,
+    "speedmultiply": 1,
+    "armormultiply": 1,
+    "armortoughnessmultiply": 1
+    },
+        {
+    "mob": ["terramity:ultra_sniffer"],
+    "when": "finalize",
+    "result": "default",
+    "difficulty": "hard",
+    "healthmultiply": 1,
+    "damagemultiply": 0.6,
+    "speedmultiply": 1,
+    "armormultiply": 1,
+    "armortoughnessmultiply": 1
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:vampiric_glove"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:umbrella"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:scarf_of_invisibility"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:power_glove"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:helium_flamingo"
+    },
+    {
+      "mob": "arkane_domains:dark_shaman",
+      "remove": "arkane_domains:head_harvester"
+    },
+    {
+      "mob": "arkane_domains:dark_shaman",
+      "remove": "arkane_domains:scarab_of_rebirth"
+    },
+    {
+      "mob": "arkane_domains:dark_shaman",
+      "remove": "arkane_domains:fragmented_totem"
+    },
+    {
+      "mob": "terramity:super_sniffer",
+      "remove": "terramity:music_sheet_of_the_legendary_super_sniffer"
+    },
+    {
+      "mob": "terramity:elite_skeleton",
+      "remove": "terramity:elite_rifle"
+    },
+    {
+      "mob": "infinitygolem:infinity_golem",
+      "player": true,
+      "item": "tdmweaponsreforged:hammer_of_light",
+      "itemcount": "1"
+    },
+    {
+      "mob": "terramity:gob",
+      "remove": "terramity:music_sheet_of_the_gnome_king"
+    },
+    {
+      "mob": "terramity:gundalf",
+      "remove": "terramity:gold_medal"
+    },
+    {
+      "mob": "minecraft:ender_dragon",
+      "remove": "majruszsdifficulty:ender_dragon_treasure_bag"
+    },
+    {
+      "mob": "minecraft:wither",
+      "remove": "majruszsdifficulty:wither_treasure_bag"
+    },
+    {
+      "mob": "minecraft:warden",
+      "remove": "majruszsdifficulty:warden_treasure_bag"
+    },
+    {
+      "mob": "minecraft:elder_guardian",
+      "remove": "majruszsdifficulty:elder_guardian_treasure_bag"
+    }
+]

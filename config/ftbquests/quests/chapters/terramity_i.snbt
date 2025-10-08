@@ -1,0 +1,1256 @@
+{
+	autofocus_id: "4500DA650E70DC0A"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "terramity_i"
+	group: "3BDABC1977584ED4"
+	id: "09FBE11C22F2D278"
+	images: [
+		{
+			color: 6291227
+			height: 20.0d
+			image: "terramity:textures/entities/shadowflame_ring.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 6.5d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			color: 4718357
+			height: 1.0d
+			image: "terramity:textures/particle/evil_glint_6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: -0.5d
+			y: -0.5d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0C114EB716A8DD3A"]
+			id: "720E23DCB8E9A82E"
+			tasks: [{
+				id: "33CEF8CECE364719"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:dimlite_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:virentium_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:cosmilite_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Tier 1 Pickaxes"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0C114EB716A8DD3A"]
+			id: "33E26565DEEB4FB9"
+			optional: true
+			tasks: [{
+				id: "3D59E1A3F2E23F9D"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:virentium_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:virentium_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:virentium_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:virentium_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Virentium Tools"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0C114EB716A8DD3A"]
+			id: "4A41862918C691A2"
+			optional: true
+			tasks: [{
+				id: "1DC738353098F781"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:dimlite_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:dimlite_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:dimlite_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:dimlite_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Dimlite Tools"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"40BBD9C6074380BC"
+				"0C114EB716A8DD3A"
+			]
+			id: "55BCF7873C8D423E"
+			tasks: [
+				{
+					id: "37291C6EF6C4BFB4"
+					item: {
+						Count: 1
+						id: "terramity:dimlite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C7EA79EA534D05C"
+					item: {
+						Count: 1
+						id: "terramity:dimlite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2294E72F934CA371"
+					item: {
+						Count: 1
+						id: "terramity:dimlite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FFC68BE076B75C1"
+					item: {
+						Count: 1
+						id: "terramity:dimlite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Dimlite Armor"
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"23C114BD986A1D7B"
+				"0C114EB716A8DD3A"
+			]
+			id: "4E1F5D245C1E3550"
+			tasks: [
+				{
+					id: "07A4CECA50420DF9"
+					item: {
+						Count: 1
+						id: "terramity:virentium_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60F2D8DEDC7B82F5"
+					item: {
+						Count: 1
+						id: "terramity:virentium_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "048777D9B8313633"
+					item: {
+						Count: 1
+						id: "terramity:virentium_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "124B6B9F55B77155"
+					item: {
+						Count: 1
+						id: "terramity:virentium_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Virentium Samurai Armor"
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0C114EB716A8DD3A"]
+			id: "2E5B528CACA0E517"
+			optional: true
+			tasks: [{
+				id: "35C0AAECDFB89563"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:cosmilite_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:cosmilite_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:cosmilite_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:cosmilite_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Cosmilite Tools"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"5EA2419F39442629"
+				"0C114EB716A8DD3A"
+			]
+			id: "427748C7E53D5127"
+			tasks: [
+				{
+					id: "0C4DA724B8A410BE"
+					item: {
+						Count: 1
+						id: "terramity:cosmilite_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "169FF4AD1CC51D03"
+					item: {
+						Count: 1
+						id: "terramity:cosmilite_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F9A4C78326A87D6"
+					item: {
+						Count: 1
+						id: "terramity:cosmilite_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "647D06ABA6789602"
+					item: {
+						Count: 1
+						id: "terramity:cosmilite_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Cosmilite Sorcerer Armor"
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["64ED1F00D57C6684"]
+			description: [
+				"Now this is where things start getting spicy as all these three tiers of armor are stronger than Netherite; in fact you will need netherite armor and a special Upgrade Trim in a Smithing table to create each of these armor sets."
+				""
+				"Of course, you will need special ingots that can be crafted with 4 vanilla items and 4 pieces of special ores that can be found in different areas of the world."
+				""
+				"However all of them require you to have a &7Netherite &for better pickaxe to mine them."
+				"{@pagebreak}"
+				"&aGaianite &fcan be found in Lush Caves and can be used to craft Virentium ingots."
+				""
+				"&9Dimlite &fcan be found in the lowest area of the Overworld near Bedrockand can be used to craft Dimlite ingots."
+				""
+				"&5Stellar Remnants &f(&5Cosmic Scraps &fwhen mined) can be found in the lower section of End Islands and it can be used to craft Cosmilite ingots."
+				"{@pagebreak}"
+				"To get the trims to craft each of these armor sets you must first defeat any of this mod's first two bosses either:"
+				"- &7Gob, the King of Gnomes"
+				"or"
+				"- &bThe Super Sniffer."
+			]
+			id: "0C114EB716A8DD3A"
+			tasks: [
+				{
+					id: "0CDAFDFBD672057B"
+					item: "terramity:dimlite_ingot"
+					type: "item"
+				}
+				{
+					id: "1594A9FFFA881A1A"
+					item: "terramity:virentium_alloy_ingot"
+					type: "item"
+				}
+				{
+					id: "6F6AD79A872FAB7B"
+					item: "terramity:cosmilite_ingot"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Tier 1"
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"5BF85D0A3254B959"
+				"157C39FF1051EA3E"
+			]
+			dependency_requirement: "one_completed"
+			id: "40BBD9C6074380BC"
+			tasks: [{
+				id: "71C514AA48A0357F"
+				item: "terramity:dimlite_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Dimlite Smithing Template"
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5BF85D0A3254B959"
+				"157C39FF1051EA3E"
+			]
+			dependency_requirement: "one_completed"
+			id: "23C114BD986A1D7B"
+			tasks: [{
+				id: "7609357ED987D4B6"
+				item: "terramity:virentium_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Virentium Smithing Template"
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5BF85D0A3254B959"
+				"157C39FF1051EA3E"
+			]
+			dependency_requirement: "one_completed"
+			id: "5EA2419F39442629"
+			tasks: [{
+				id: "631EFA224CE651A6"
+				item: "terramity:cosmilite_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Cosmilite Smithing Template"
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["64ED1F00D57C6684"]
+			description: [
+				"Gob, King of Gnomes is the first Boss in Terramity's progression."
+				""
+				"He drops templates for the Tier 1 materials of Dimlite and Virentium as well as various Gems and Souls."
+				""
+				"Gob, King of Gnomes can be summoned by using a Red Gnome Hat at the Golden Gnome Statue in the Court of Gnomes."
+			]
+			id: "5BF85D0A3254B959"
+			rewards: [{
+				count: 3
+				id: "20A505A20C940845"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Get Gnomed"
+			tasks: [{
+				entity: "terramity:gob"
+				icon: {
+					Count: 1
+					id: "terramity:gobs_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6F04E795EAF1EE90"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat Gob"
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["64ED1F00D57C6684"]
+			description: [
+				"The Super Sniffer is the second boss in Terramity's Progression."
+				""
+				"It drops templates for the Tier 1 materials of Dimlite and Virentium as well as various Gems and Souls as well as various powerful curios."
+				""
+				"Super Sniffer can be summoned by causing a lightning near a Sniffer young or adult transforming the sniffer into this boss."
+				""
+				"It's recommended to use the Lightning Staff and strike it near a Sniffer."
+			]
+			id: "157C39FF1051EA3E"
+			rewards: [{
+				count: 5
+				id: "7C64090EBA10BC38"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Goku in an Alternate Universe"
+			tasks: [{
+				entity: "terramity:super_sniffer"
+				icon: "terramity:kamehameha"
+				id: "6B472B33006A7E62"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat Super Sniffer"
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4500DA650E70DC0A"]
+			id: "64ED1F00D57C6684"
+			tasks: [{
+				id: "65A8CFD3D6069057"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:sapphire_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:onyx_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:topaz_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:ruby_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Tier 0 Pickaxes"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["16127A006FEEAF69"]
+			description: [
+				"Netherite is used for a heap load of recipes inside the mod including things such as Advanced Gun Parts and every Tier 1 Bar."
+				""
+				"Netherite can be found in the chests of various structures inside the mod such as Trial Spires and Chthonic Dungeons."
+			]
+			icon: "minecraft:netherite_ingot"
+			id: "4500DA650E70DC0A"
+			subtitle: "Netherite not even Tier 1???"
+			tasks: [
+				{
+					id: "06C934B05C2A81DD"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "66704C90A2C41DDE"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			title: "Tier 0.5"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			description: [
+				"The Prismatic Jewel is a Tier 0 Item obtained through combining every gem and a piece of Nether Quartz and Amethyst."
+				""
+				"[ \"It is used in various Prismatic-related items as well as being the item used to duplicate \", { \"text\": \"Antiprisms\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"14DDBB7CA3A71F56\" } }, \".\" ]"
+			]
+			id: "16127A006FEEAF69"
+			tasks: [{
+				id: "3DF64E7EE149B64C"
+				item: "terramity:prismatic_jewel"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "73F4F48267476E99"
+			tasks: [
+				{
+					id: "4715553A848F3539"
+					item: {
+						Count: 1
+						id: "terramity:ruby_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F12FBC6D37DEAC9"
+					item: {
+						Count: 1
+						id: "terramity:ruby_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B0703872B54B86C"
+					item: {
+						Count: 1
+						id: "terramity:ruby_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6FF85E1A1C80853B"
+					item: {
+						Count: 1
+						id: "terramity:ruby_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ruby Armor"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "5C27FAC6B844CD3B"
+			tasks: [
+				{
+					id: "0AD3A7F3B5CABD1A"
+					item: {
+						Count: 1
+						id: "terramity:topaz_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "61AC07F11CB57B35"
+					item: {
+						Count: 1
+						id: "terramity:topaz_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6204F5BEA2A73504"
+					item: {
+						Count: 1
+						id: "terramity:topaz_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23E7945BF7E58A4F"
+					item: {
+						Count: 1
+						id: "terramity:topaz_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Topaz Armor"
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "7212B845B3717150"
+			optional: true
+			tasks: [{
+				id: "5F577235EF0B5110"
+				item: {
+					Count: 1
+					id: "itemfilters:and"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "itemfilters:always_true"
+							}
+							{
+								Count: 1b
+								id: "itemfilters:or"
+								tag: {
+									items: [
+										{
+											Count: 1b
+											id: "terramity:topaz_sword"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:topaz_axe"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:topaz_shovel"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:topaz_hoe"
+											tag: {
+												Damage: 0
+											}
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+				title: "Topaz Tools"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "67A72D0FB0955263"
+			optional: true
+			tasks: [{
+				id: "49ECF12AA07CAAFD"
+				item: {
+					Count: 1
+					id: "itemfilters:and"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "itemfilters:always_true"
+							}
+							{
+								Count: 1b
+								id: "itemfilters:or"
+								tag: {
+									items: [
+										{
+											Count: 1b
+											id: "terramity:ruby_sword"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:ruby_hoe"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:ruby_axe"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:ruby_shovel"
+											tag: {
+												Damage: 0
+											}
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+				title: "Ruby Tools"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["43ACAF3A3EA50806"]
+			description: [
+				"These new gems can be obtained in &6most &floot chests of the mod but can also be found as &6mineable ores&f in which case you will need &4Iron or Better &ftools for them."
+				""
+				"You can find these mineable ores in different biomes:"
+				"{@pagebreak}"
+				"&6Topaz &fcan be found in Warm Biomes (Badlands, Jungles, etc.)"
+				""
+				"&cRuby &fcan be found in Nether wastelands, as well as in Scorched Caves a unique biome in the Overworld found commonly below Deserts."
+				""
+				"&3Sapphire &fcan be found in cold biomes such as Snow Fields and Snowy Taigas."
+				""
+				"&9Onyx &fcan be found in End Islands in The End dimension."
+				""
+				"&bIridescent Shard &fcan be found deep anywhere in the overworld."
+				"{@pagebreak}"
+				"&6Every gem &fcan be combined into a &6Prismatic Jewel &fwhich can be used to duplicate Antiprisms and create various curios and items such as the Ocarina of Power."
+				""
+				"All these armors offer a protection level similar to diamond so its a great starting point for your progression towards Terramity but this is just the beginning..."
+			]
+			id: "7DBED4DF027E9C78"
+			tasks: [
+				{
+					id: "2E843B5A4EA6C0DF"
+					item: "terramity:topaz"
+					type: "item"
+				}
+				{
+					id: "45BC89275A65AE7F"
+					item: "terramity:ruby"
+					type: "item"
+				}
+				{
+					id: "0A2A4C7326AB059E"
+					item: "terramity:sapphire"
+					type: "item"
+				}
+				{
+					id: "6E1105082F21E998"
+					item: "terramity:onyx"
+					type: "item"
+				}
+				{
+					id: "4B15E260463443DA"
+					item: "terramity:iridescent_shard"
+					type: "item"
+				}
+				{
+					id: "06FF521FA32C7B0D"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "789ABF75F2F0B7EA"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "69BAF4D906BACA67"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "6F0DF9BC41A42B17"
+					item: "minecraft:quartz"
+					type: "item"
+				}
+			]
+			title: "Tier 0"
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "54543DFC6DE83667"
+			tasks: [
+				{
+					id: "26CE9D142D147EC9"
+					item: {
+						Count: 1
+						id: "terramity:sapphire_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "65A47DF9A54BDC46"
+					item: {
+						Count: 1
+						id: "terramity:sapphire_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D17A301DCD25083"
+					item: {
+						Count: 1
+						id: "terramity:sapphire_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "25171635DE74FF0C"
+					item: {
+						Count: 1
+						id: "terramity:sapphire_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Sapphire Armor"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "4EED2128DCAE93E1"
+			optional: true
+			tasks: [{
+				id: "563D4248853F6E6F"
+				item: {
+					Count: 1
+					id: "itemfilters:and"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "itemfilters:always_true"
+							}
+							{
+								Count: 1b
+								id: "itemfilters:or"
+								tag: {
+									items: [
+										{
+											Count: 1b
+											id: "terramity:sapphire_sword"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:sapphire_axe"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:sapphire_shovel"
+											tag: {
+												Damage: 0
+											}
+										}
+										{
+											Count: 1b
+											id: "terramity:sapphire_hoe"
+											tag: {
+												Damage: 0
+											}
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+				title: "Sapphire Tools"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "11540CC5F2BC9396"
+			optional: true
+			tasks: [{
+				id: "7DCDAD7D617A345D"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:onyx_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:onyx_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:onyx_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:onyx_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Onyx Tools"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DBED4DF027E9C78"]
+			id: "42AAEC3F9A962E68"
+			tasks: [
+				{
+					id: "139EB1567051D625"
+					item: {
+						Count: 1
+						id: "terramity:onyx_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "330FC405ECEC8EDF"
+					item: {
+						Count: 1
+						id: "terramity:onyx_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16D0DE6C7DB9DEE5"
+					item: {
+						Count: 1
+						id: "terramity:onyx_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "045FBF7E92696B3D"
+					item: {
+						Count: 1
+						id: "terramity:onyx_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Onyx Armor"
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Terramity works on a proggresive system where there are a total of 13 new armor sets, weapons and tools each with their own benefits that is up to you to discover!"
+				""
+				"Of course which road you will take may depend on luck as some armor trims and materials can be found by defeating this mod's bosses but we will talk about them later on."
+				""
+				"Let's start with the basics..."
+				"{@pagebreak}"
+				"The Armor Sets require you to get the full set in order to complete while you only need 1 Tool + a Pickaxe."
+				""
+				"&4You will also need every Ingot of every Tier."
+			]
+			icon: {
+				Count: 1
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "terramity:terramity_guidebook"
+				}
+			}
+			id: "43ACAF3A3EA50806"
+			subtitle: "Internal Wiki"
+			tasks: [
+				{
+					id: "6298A3FB5D09B054"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "terramity:terramity_guidebook"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B6FE023A4CCE1B6"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			x: -0.5d
+			y: 7.0d
+		}
+	]
+	title: "&l&fTerramity_i&r"
+}

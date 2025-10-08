@@ -1,0 +1,1076 @@
+{
+	autofocus_id: "5927CC055C447667"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	disable_toast: true
+	filename: "terramity_progression"
+	group: "396150E4AFECA7AD"
+	id: "2C0D150B22C24E4F"
+	images: [
+		{
+			color: 774655
+			height: 30.0d
+			image: "minecraft:block/pearlescent_froglight_top"
+			order: -1
+			rotation: 0.0d
+			width: 10.0d
+			x: 21.5d
+			y: -3.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 25.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 22.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 18.5d
+			y: 10.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 17.5d
+			y: -17.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 5.0d
+			x: 23.5d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 5.0d
+			x: 20.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 5.0d
+			x: 22.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 5.0d
+			x: 17.5d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 5.0d
+			x: 26.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 19.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 21.0d
+			y: 10.0d
+		}
+		{
+			height: 5.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 24.0d
+			y: 10.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 21.5d
+			y: -17.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 25.5d
+			y: -16.5d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 10.0d
+			x: 23.5d
+			y: -17.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 10.0d
+			x: 19.5d
+			y: -16.5d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 45.0d
+			width: 10.0d
+			x: 21.5d
+			y: -17.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 19.5d
+			y: -18.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 23.5d
+			y: -18.0d
+		}
+		{
+			height: 10.0d
+			image: "terramity:textures/particle/ultra_glint_5.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 21.5d
+			y: -18.0d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 21.5d
+			y: -4.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2932C7DEBC10B9D3"]
+			description: [
+				"If you have reached this point in the progress system then you are on a roll here but be prepared as things are just going to get even harder."
+				""
+				"Now to craft these armors you will need trims that are dropped by the Trial Guardian and the Ultra Sniffer &o(&9heavily recommended you get them from &6Trial Guardian &9due to it being a lot easier than &7Ultra Sniffer&f)&r this mod's &6third &fand &6final &rprogressive bosses respectively and Black Matter."
+				"{@pagebreak}"
+				"Found in the Nether's top Bedrock layer."
+				""
+				"Must be decayed using a Perish Staff given by the Trial Guardian then mined using any of the pickaxes mentioned before."
+				""
+				"Black Matter can also be duplicatable with Spectral Souls."
+			]
+			icon: "terramity:black_matter"
+			id: "2C6FC2D93C93E3DC"
+			subtitle: "Finish last quest in Terramity_ii to unlock"
+			tasks: [
+				{
+					id: "24B395F87DFFF9B8"
+					item: "terramity:black_matter"
+					type: "item"
+				}
+				{
+					id: "007DC78ED3C06BED"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			title: "Tier 2"
+			x: 21.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"3699BCBBF3B6FD50"
+				"453D5EDFEB5F8D6A"
+				"6BE05A6F132665B8"
+				"01FD2BE74D1D322A"
+			]
+			description: [
+				"Once the player has obtained a powerful loadout of Weaponry, Armor, and Curios, the player should now be ready to try and challenge the Ultra Sniffer."
+				""
+				"The Ultra Sniffer drops important materials from every boss in the mod as well as various heavily powerful curios."
+				""
+				"Remember to come to this boss with your &6most powerful gear possible &fdue to it being a Super-Boss."
+				"{@pagebreak}"
+				"He can be summoned by striking the Super Sniffer with lightning while he's in phase 2 and under &610% &fhealth"
+			]
+			icon: "terramity:kamehameha"
+			id: "05D0AF91008E3155"
+			rewards: [{
+				id: "53BF6D1C91D1C48A"
+				item: "soulsweapons:chungus_emerald_block"
+				type: "item"
+			}]
+			subtitle: "Ultra Instinct Alternate Goku"
+			tasks: [
+				{
+					entity: "terramity:ultra_sniffer"
+					icon: "terramity:kamehameha"
+					id: "73EC49CF0D0ADE5A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "6C61A440BD6E23B3"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			title: "Defeat Ultra Sniffer"
+			x: 21.5d
+			y: -13.0d
+		}
+		{
+			dependencies: [
+				"2C6FC2D93C93E3DC"
+				"1A7701358F28775C"
+			]
+			description: [
+				"Once you have gathered enough of those, you will then need to get a little bit harder materials to craft the proper ingots:"
+				""
+				"4 &dIridium ingots&f 1 piece of Dark Matter and 4 pieces of the following items:"
+				""
+				"4 &4Cthonic Crystals&f found in the Nether to craft Hellspec Ingots."
+				""
+				"4 &eCircuit Boards&f crafted using vanilla and Terramity Items to get a Conductite Ingot."
+				""
+				"4 &7Empty Essenses &fcreated by throwing Black Matter into stygian blood to get Void Alloy Ingots."
+			]
+			id: "770BF6E8DA6010C0"
+			tasks: [
+				{
+					count: 4L
+					id: "01E9B61997A5B0D9"
+					item: "terramity:hellspec_alloy"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "425565060EB711A8"
+					item: "terramity:conductite"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "146309B692E7A75C"
+					item: "terramity:void_alloy"
+					type: "item"
+				}
+			]
+			title: "Tier 2"
+			x: 21.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["499A45A175DD95EC"]
+			description: [
+				"Once you have acquired a Tier 2 Pickaxe you can mine Profanum Ore."
+				""
+				"&6Profanum &fis used as a base for every Tier 3 Bar as well as various other items and blocks such as the Moondrill Cannon."
+				""
+				"&6Profanum Ore &fcan be found deep underground with the ore dropping Raw Profanum that burns the player if they hold it."
+			]
+			icon: "terramity:profanum"
+			id: "5D9252B669B888FE"
+			tasks: [
+				{
+					id: "0A5230F6121DBEF7"
+					item: "terramity:profanum"
+					type: "item"
+				}
+				{
+					id: "06E82B89379E883D"
+					title: "You knew this was coming"
+					type: "checkmark"
+				}
+			]
+			title: "Tier 2.5"
+			x: 21.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"14DDBB7CA3A71F56"
+				"5D9252B669B888FE"
+			]
+			description: [
+				"If you are here then congrats!"
+				""
+				"You have just reached the peak of Terramity but things will now get the hardest possible so make sure to prepare physically (&9and mentally&f)."
+				""
+				"To start with (&9and luckily for you&f) none of these armor sets require any upgrade trims."
+				""
+				"Instead you will need Antiprism an item droped by Gundalf this mod's final (&9and maybe most difficult&f) boss."
+				""
+				"Don't worry, you don't have to fight Gundalf a million times due to Antiprisms being duplicatable with Prismatic Jewels."
+				"{@pagebreak}"
+				"Now, the ingots required to craft these three armor sets can be found by the following methods:"
+				""
+				"For &9Nyxium&f you'll need Opaline Moonstone."
+				"This item can only be found by striking the moon during a full moon using a Moondrill Cannon."
+				""
+				"For &eReverirum&f you will need Angel Feathers droped by Virtue an optional boss."
+				""
+				"For &5Exodium&f you will need Cracked Ectoprism."
+				"You can create this item by dropping Empty Essence into a blackhole."
+			]
+			id: "3699BCBBF3B6FD50"
+			tasks: [
+				{
+					id: "36D0695F4E6BB985"
+					item: "terramity:nyxium"
+					type: "item"
+				}
+				{
+					id: "1FAE10AE8BA84C7F"
+					item: "terramity:reverium"
+					type: "item"
+				}
+				{
+					id: "48AC4EA820A435EC"
+					item: "terramity:exodium_superalloy"
+					type: "item"
+				}
+			]
+			title: "Tier 3"
+			x: 21.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["041A90EFD4A3D846"]
+			id: "0D5CDC97F5BF3D03"
+			rewards: [{
+				id: "04FA07A4449526A6"
+				item: "soulsweapons:chungus_emerald_block"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "terramity:gundalf"
+				icon: {
+					Count: 1
+					id: "terramity:fortunes_favor"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "772A49FFBABA1A5B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat Archmage Gundalf"
+			x: 21.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["06406B2D8A9A618D"]
+			id: "19CBC92610B35600"
+			rewards: [{
+				count: 5
+				id: "63746D2DEFFB3C6B"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Optional Boss"
+			tasks: [{
+				entity: "terramity:virtue"
+				icon: "terramity:archangel_halo"
+				id: "1DF03EF3C9D00A9F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat Virtue"
+			x: 24.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"770BF6E8DA6010C0"
+				"2C6FC2D93C93E3DC"
+				"5719F8A117BCD563"
+				"423B02C82E1E41E5"
+			]
+			id: "349AE95B807CEA1B"
+			subtitle: "Alucard?"
+			tasks: [
+				{
+					id: "3ECB0F98C927A515"
+					item: {
+						Count: 1
+						id: "terramity:hellspec_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "042E573D77D10E76"
+					item: {
+						Count: 1
+						id: "terramity:hellspec_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2C36CCD105C74EFD"
+					item: {
+						Count: 1
+						id: "terramity:hellspec_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "322B574124F7E32C"
+					item: {
+						Count: 1
+						id: "terramity:hellspec_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Hellspec Armor"
+			x: 18.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["770BF6E8DA6010C0"]
+			id: "61B1E79C8C78CB38"
+			optional: true
+			tasks: [{
+				id: "58EA82A079A95CEC"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:hellspec_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:hellspec_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:hellspec_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:hellspec_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Hellspec Tools"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"770BF6E8DA6010C0"
+				"2C6FC2D93C93E3DC"
+				"1F4C559AA247155B"
+				"423B02C82E1E41E5"
+			]
+			id: "5927CC055C447667"
+			subtitle: "Become an Android"
+			tasks: [
+				{
+					id: "0ED7D5BA79B24438"
+					item: {
+						Count: 1
+						id: "terramity:conductite_scouter_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38E09161BE7F73D5"
+					item: {
+						Count: 1
+						id: "terramity:conductite_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68EFF24972498DB7"
+					item: {
+						Count: 1
+						id: "terramity:conductite_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "395A151637272F64"
+					item: {
+						Count: 1
+						id: "terramity:conductite_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Conductite Armor"
+			x: 21.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["770BF6E8DA6010C0"]
+			id: "643B69254E98E530"
+			optional: true
+			tasks: [{
+				id: "7AE3E7C5DD7F66DA"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:conductite_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:conductite_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:conductite_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:conductite_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Conductite Tools"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"770BF6E8DA6010C0"
+				"2C6FC2D93C93E3DC"
+				"647ED4D865B8F046"
+				"423B02C82E1E41E5"
+			]
+			id: "25DC22CEA66FE826"
+			tasks: [
+				{
+					id: "587200AE7E264EA9"
+					item: {
+						Count: 1
+						id: "terramity:void_mage_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "33EBB2ED144B63BE"
+					item: {
+						Count: 1
+						id: "terramity:void_mage_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3171674D4D164A2D"
+					item: {
+						Count: 1
+						id: "terramity:void_mage_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B7C124157253B39"
+					item: {
+						Count: 1
+						id: "terramity:void_mage_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Void Mage Armor"
+			x: 24.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["770BF6E8DA6010C0"]
+			id: "5CC8057AB52372FD"
+			optional: true
+			tasks: [{
+				id: "73BE940469AD0482"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:void_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:void_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:void_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:void_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Void Tools"
+				type: "item"
+			}]
+			x: 24.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["770BF6E8DA6010C0"]
+			id: "499A45A175DD95EC"
+			tasks: [{
+				id: "23494240E02CF51B"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "terramity:hellspec_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:conductite_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "terramity:void_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				title: "Tier 2 Pickaxes"
+				type: "item"
+			}]
+			x: 21.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5D9252B669B888FE"]
+			description: [
+				"They can be summoned by using occult fabric on an offering pedestal found in cthonian cathedrals above the nether."
+				""
+				"The shadow wizard boss fight boasts a whopping two phases with the first phase being a duo fight against &6Enchanter Merlin &fand &6Sorceress Circe&f."
+				""
+				"Upon killing them both (and their corpses being within a certain range of each other) Merlin and Circe will combine causing &6Gundalf &fto spawn."
+			]
+			id: "041A90EFD4A3D846"
+			tasks: [
+				{
+					entity: "terramity:enchanter_merlin"
+					icon: {
+						Count: 1
+						id: "irons_spellbooks:electromancer_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "5C14F7CCAD39B9C3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "terramity:sorceress_circe"
+					icon: {
+						Count: 1
+						id: "irons_spellbooks:archevoker_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					id: "010DA89C829C9478"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Shadow Wizards"
+			x: 21.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0D5CDC97F5BF3D03"]
+			description: ["[ \"Drops from the \", { \"text\": \"Shadow Wizards\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"041A90EFD4A3D846\" } }, \" and can be used to craft ingots and other items of Tier 3.\" ]"]
+			id: "14DDBB7CA3A71F56"
+			tasks: [{
+				id: "608DC1492E6F4918"
+				item: "terramity:antiprism"
+				type: "item"
+			}]
+			x: 21.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"3699BCBBF3B6FD50"
+				"7699A48EA0F36CD5"
+				"5D9252B669B888FE"
+			]
+			id: "453D5EDFEB5F8D6A"
+			tasks: [
+				{
+					id: "2F102FB6394EAA8C"
+					item: {
+						Count: 1
+						id: "terramity:exodium_warlock_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D7D2258A8C73D60"
+					item: {
+						Count: 1
+						id: "terramity:exodium_warlock_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "513C7AA299FF1193"
+					item: {
+						Count: 1
+						id: "terramity:exodium_warlock_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2F3B048247952BBE"
+					item: {
+						Count: 1
+						id: "terramity:exodium_warlock_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Exodium Warlock Armor"
+			x: 18.5d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"3699BCBBF3B6FD50"
+				"4824216451CB93E3"
+				"5D9252B669B888FE"
+			]
+			id: "6BE05A6F132665B8"
+			tasks: [
+				{
+					id: "014009E56549089C"
+					item: {
+						Count: 1
+						id: "terramity:nyxium_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "18B6AE8233474E09"
+					item: {
+						Count: 1
+						id: "terramity:nyxium_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E78540D8383DC65"
+					item: {
+						Count: 1
+						id: "terramity:nyxium_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F624CDD71642B9D"
+					item: {
+						Count: 1
+						id: "terramity:nyxium_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Nyxium Knight Armor"
+			x: 21.5d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"19CBC92610B35600"
+				"3699BCBBF3B6FD50"
+				"5D9252B669B888FE"
+			]
+			id: "01FD2BE74D1D322A"
+			tasks: [
+				{
+					id: "160A0ADE24B41FDE"
+					item: {
+						Count: 1
+						id: "terramity:reverium_paladin_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "63D0E85163282717"
+					item: {
+						Count: 1
+						id: "terramity:reverium_paladin_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "127DCAF1E4ED583C"
+					item: {
+						Count: 1
+						id: "terramity:reverium_paladin_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C980920701C2539"
+					item: {
+						Count: 1
+						id: "terramity:reverium_paladin_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Reverium Paladin Armor"
+			x: 24.5d
+			y: -11.0d
+		}
+		{
+			dependencies: [
+				"5D9252B669B888FE"
+				"770BF6E8DA6010C0"
+			]
+			description: ["Throw it in the sky to pierce the heavens and summon it's wrath...."]
+			id: "06406B2D8A9A618D"
+			tasks: [{
+				id: "6C85DE5E7FCB2D1C"
+				item: {
+					Count: 1
+					id: "terramity:unholy_lance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 24.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5D9252B669B888FE"]
+			id: "4824216451CB93E3"
+			tasks: [{
+				id: "16176F5879D5F410"
+				item: "terramity:moondrill_cannon"
+				type: "item"
+			}]
+			x: 21.5d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"5D9252B669B888FE"
+				"770BF6E8DA6010C0"
+			]
+			id: "7699A48EA0F36CD5"
+			tasks: [{
+				id: "068EBA36E0C4E384"
+				item: "terramity:black_hole_bomb"
+				type: "item"
+			}]
+			x: 18.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["05D0AF91008E3155"]
+			description: ["you must complete Marium's bosses as well as Dungeons and combat to unlock last chapter?"]
+			id: "7E4C3F69B0D73000"
+			tasks: [{
+				id: "2BF244143195C62C"
+				title: "Congrats?"
+				type: "checkmark"
+			}]
+			title: "This isn't over?"
+			x: 21.5d
+			y: -14.5d
+		}
+	]
+	title: "&l&6Terramity_iii&r"
+}

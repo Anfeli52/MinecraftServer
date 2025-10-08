@@ -1,0 +1,5039 @@
+{
+	autofocus_id: "1365AC5016C3655C"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "goety"
+	group: "59FA2E224FC441CB"
+	id: "22B0273763B91010"
+	images: [
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/sculk_devourer_top_bloom"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/forbidden_grass_top"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/pithos_side"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/shade_stone"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_pillar"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 5.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 4.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -6.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -7.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -8.5d
+			y: -7.0d
+		}
+		{
+			height: 1.2d
+			image: "goety:block/crypt_bricks"
+			rotation: 0.0d
+			width: 1.2d
+			x: -9.5d
+			y: -7.0d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 6.5d
+			y: 0.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1365AC5016C3655C"]
+			description: [
+				"Ectoplasm for the craft can be obttained by defeating Wraiths or looting them from &6Dungeon &fchests."
+				""
+				"Equip the Totem by either right-clicking on it or placing it on a Charm slot in the Curios Menu. The Totem is needed to craft the necessary items to progress, but it needs to have Soul Energy first."
+				"{@pagebreak}"
+				"Soul Energy is obtained by killing mobs while having the Totem equipped. With certain types of mobs giving more Soul Energy than others (ie. Illagers)."
+				""
+				"The totem &4will disappear &fduring crafting if it doesnt have enough Soul Energy."
+			]
+			icon: {
+				Count: 1
+				id: "goety:totem_of_roots"
+				tag: {
+					"Max Souls": 100
+					Souls: 0
+				}
+			}
+			id: "02AB90D5F6C9365C"
+			subtitle: "The Start of Everything"
+			tasks: [
+				{
+					id: "1AF20F449BAD16ED"
+					item: {
+						Count: 1
+						id: "goety:totem_of_roots"
+						tag: {
+							"Max Souls": 100
+							Souls: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5146F5C44D5A6051"
+					title: "Acknowledgement that you read this :D"
+					type: "checkmark"
+				}
+			]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02AB90D5F6C9365C"]
+			id: "0B03F992ABD49939"
+			subtitle: "Just like during Math class"
+			tasks: [{
+				id: "2C42884F3EFCD859"
+				item: "goety:empty_focus"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02AB90D5F6C9365C"]
+			description: ["Wood from this tree are &6Fireproof!"]
+			id: "7A9BCA6E74615097"
+			subtitle: "Spooky tree?"
+			tasks: [{
+				id: "658D4508E94D83E3"
+				item: "goety:haunted_sapling"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02AB90D5F6C9365C"]
+			description: ["Magical fabrics are crafting components for several items and rituals. They are crafted using 2 strings, a lapis lazuli and another ingredient."]
+			id: "1EF1B00C56D02672"
+			tasks: [
+				{
+					id: "3DB1924D78CFE9FB"
+					item: "goety:magic_fabric"
+					type: "item"
+				}
+				{
+					id: "4ED61B8C6E780BC8"
+					item: "goety:dark_fabric"
+					type: "item"
+				}
+				{
+					id: "74567B21814FECEA"
+					item: "goety:occult_fabric"
+					type: "item"
+				}
+				{
+					id: "1B84867B9C823685"
+					item: "goety:spirit_fabric"
+					type: "item"
+				}
+				{
+					id: "5E46C196EF0DAA1F"
+					item: "goety:gale_fabric"
+					type: "item"
+				}
+				{
+					id: "4B9453D3C9A40EF6"
+					item: "goety:chill_fabric"
+					type: "item"
+				}
+				{
+					id: "4B1F161221875C62"
+					item: "goety:unholy_fabric"
+					type: "item"
+				}
+			]
+			title: "Special Fabrics"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0B03F992ABD49939"
+				"7A9BCA6E74615097"
+				"1EF1B00C56D02672"
+			]
+			description: ["The Dark Wand allows you to cast Spells by placing a &6Focus within it. &fFor your first Focus you can make the Soul Light Focus which allows you to throw a projectile that leaves a glowing ball of light on the location it hits."]
+			id: "0C569B52777C8ECF"
+			rewards: [{
+				count: 3
+				id: "62CC15095087FD29"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "First step to dark wizardry"
+			tasks: [{
+				id: "5E29B9F3AEC1E135"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 1
+							slot: 0
+						}
+					}
+					id: "goety:dark_wand"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0C569B52777C8ECF"]
+			description: ["To place a Focus within the Wand, you must hold the Wand on your main or off hand and either press the Open Wand Focus Slot key (default: Z) and place the Focus in it, or press the Open Focus Circle key (default: X) and press the Focus to place it in."]
+			id: "33A76E78B5576E63"
+			tasks: [{
+				id: "46E80F2F83772376"
+				item: "goety:soul_light_focus"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33A76E78B5576E63"]
+			description: [
+				"The mod offers a large amount of Focuses, so it's best to craft a Focus Bag which can hold &68 Focuses &fand can be equipped in the Belt Slot of the Curios Menus. The Focus Radial Menu also takes the Focuses within the Bag into account &6alongside &fthe ones in the player inventory."
+				""
+				"To open the bag press the Open Focus Bag key (Default: C)."
+			]
+			id: "7120F533AC21A23D"
+			tasks: [{
+				id: "2F5BD6D122A717EE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 11
+							slot: 0
+						}
+					}
+					id: "goety:focus_bag"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["02AB90D5F6C9365C"]
+			description: [
+				"These special Emeralds are used to craft a variety of items and even some blocks within the mod."
+				""
+				"One of these items is of course the better Totem, &6The Totem of Souls&f."
+				""
+				"Can also be used as a substitute for regular Emeralds."
+			]
+			id: "71E980C76580E134"
+			subtitle: "Route to a better Totem"
+			tasks: [{
+				id: "2939760DB578BD35"
+				item: "goety:magic_emerald"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["71E980C76580E134"]
+			description: ["The Totem of Souls can carry a lot more Soul Energy than the Totem of Roots making it more fitting for future endeavors."]
+			id: "11541C43879542BC"
+			subtitle: "Looks familiar"
+			tasks: [{
+				id: "1CC535B1E85103E5"
+				item: {
+					Count: 1
+					id: "goety:totem_of_souls"
+					tag: {
+						"Max Souls": 10000
+						Souls: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"Anything not explained regarding the Goety mod can be found in this book."
+				""
+				"I'd like to point out that as I am not familiar with this mod I do not know what explanation to shorten or offer tricks and tips and everything in this questline is taken directly from the Goety wiki with some revisions regarding spelling mistakes, rephrasing sentences to make them more understandable or taking out entire sentences as they were not needed."
+				""
+				"The which i used in the creation can be found here: https://goety-wiki.gitbook.io/goety-wiki"
+			]
+			id: "1365AC5016C3655C"
+			subtitle: "Internal Wiki"
+			tasks: [{
+				id: "0224870C498B8207"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "goety:black_book"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11541C43879542BC"]
+			description: ["The mod also provides a set of blocks that are used in crafting recipes or for decorative purposes: &6Shade Blocks &fwhich are useful in creating the blocks used in Rituals."]
+			id: "7679A1FBB626B4C7"
+			tasks: [{
+				count: 8L
+				id: "6051A84EA502723E"
+				item: "goety:shade_stone"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1365AC5016C3655C"]
+			description: [
+				"If you have found a Monster Spawner you can make the components more cheaply using Cursed Infusion."
+				""
+				"The Cursed Infuser allows certain items to transform into a new one."
+				"Said transformed item tends to be a crafting component for Focuses or other modded items or blocks. However in order for it to work it must be placed &4&lon top &r&6of a Spawner&f."
+			]
+			id: "06D9F30DB46D57E2"
+			tasks: [{
+				id: "4580ACE11BFF45A0"
+				item: "goety:cursed_infuser"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["06D9F30DB46D57E2"]
+			description: ["Now you can simply find a monster spawner and place the Infuser on it... or craft cursed metal ingots and an Empty Focus with a Totem so you can make yourself a Fire Spawn Cage."]
+			id: "4B188B7D81A08C5A"
+			subtitle: "Careful when touching"
+			tasks: [{
+				count: 4L
+				id: "09EF850AD88E8887"
+				item: "goety:cursed_ingot"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4B188B7D81A08C5A"]
+			description: [
+				"With this item &6right click &fon the active spawner which will cause it to \"absorb\" it's inner fire filling it and destroying the spawner in the process."
+				""
+				"If filled right-clicking it on an &6empty Cursed Cage &fwill turn it into a spawner of the same type allowing you to effectively move spawners provided you make Cursed Cages."
+			]
+			id: "3E32E08BEB128EC7"
+			tasks: [{
+				id: "20433005B81E482D"
+				item: "goety:flame_capture"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3E32E08BEB128EC7"]
+			description: [
+				"A cursed cage is used to provide some artifices soul energy when filled with a totem or transfer gem."
+				""
+				"When certain artifices is placed ontop or in certain cases under, it will siphon soul energy from the totem or transfer gem in it."
+			]
+			id: "27CB72CE46E1E8C0"
+			subtitle: "Our Mortal soul is stuck in this"
+			tasks: [{
+				id: "2410D857A5A31479"
+				item: "goety:cursed_cage"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"27CB72CE46E1E8C0"
+				"105C7FFFEEFF268A"
+				"729D1621B295C95E"
+			]
+			description: [
+				"Rituals are used to craft certain items transform or summon mobs."
+				""
+				"The Dark Altar is the centerpiece of most Rituals. Before anything the Altar must be placed above a Cursed Cage."
+				""
+				"The Cursed Cage sends soul energy to certain devices such as the Dark Altar if it has a totem or transfer gem inserted in it."
+				"{@pagebreak}"
+				"By using a Dark Altar you may craft a certain item or summon a creature depending on the blocks and items surrounding the Altar. Unlike other schools of magic these blocks &4do not &fneed to be arranged in a certain order for the ritual to function."
+				"What matters is that certain amount of certain blocks are &6within &fthe Altar's &616 block radius&f. Ritual Types can coexist within one another so long as it's within the Altar's radius."
+			]
+			id: "7B8556675DC0AE2B"
+			rewards: [{
+				count: 3
+				id: "6C68864612B9FD34"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D21850E13F46587"
+				item: "goety:dark_altar"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27CB72CE46E1E8C0"]
+			description: ["Transfer gems are items used to transfer soul energy from the player to artifices if the player has bound themselves to an arca."]
+			id: "0313B4300E6F9320"
+			tasks: [{
+				id: "01BC1D857EDDBA56"
+				item: "goety:soul_transfer"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"To begin the ritual you must fill the pedestals with the required items before placing the Altar's item. When the ritual is ongoing the Altar will siphon soul energy from the cage so you best &6make sure &fit has enough of it before starting a Ritual."
+				""
+				"The Pedestals can also be used for decoration."
+			]
+			id: "729D1621B295C95E"
+			tasks: [{
+				count: 8L
+				id: "4DA34C6F7926A618"
+				item: { Count: 8, id: "goety:pedestal" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"&4&lSacrafices"
+				""
+				"&fCertain rituals demand a sacrifice to complete. The altar will emit flame particles to indicate that it needs a sacrifice in order to progress."
+				""
+				"A sacrifice is made by killing a designated mob &6within 8 blocks &fof the altar."
+				"{@pagebreak}"
+				"&4&lConversion"
+				""
+				"&fA ritual can transform a mob into another."
+				""
+				"The ritual requires a designated mob &6within the 8 blocks &fof the altar where it would transform once the ritual is completed."
+				""
+				"The mob must still be alive for the ritual to complete."
+			]
+			id: "105C7FFFEEFF268A"
+			tasks: [{
+				id: "2DA212FFD5DAC9EB"
+				title: "Extra Ritual info"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: ["This ritual is used to create Animation and Hunger Cores and certain focuses that relates to spawning servant mobs."]
+			id: "2D9D852B954E5724"
+			tasks: [
+				{
+					count: 15L
+					id: "33733EE30319380B"
+					item: { Count: 15, id: "minecraft:ladder" }
+					type: "item"
+				}
+				{
+					count: 15L
+					id: "448A915DD3693F84"
+					item: { Count: 15, id: "minecraft:rail" }
+					type: "item"
+				}
+				{
+					id: "5D2F94DF374B9331"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:jack_o_lantern"
+								}
+								{
+									Count: 1b
+									id: "minecraft:carved_pumpkin"
+								}
+							]
+						}
+					}
+					title: "Jack O' Lantern or Carved Pumpkin"
+					type: "item"
+				}
+			]
+			title: "Animation Ritual"
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: ["This ritual is used to create special equipment and artifices."]
+			id: "00FC1471C7380A53"
+			tasks: [
+				{
+					id: "0259AA39ABCC9007"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:anvil"
+								}
+								{
+									Count: 1b
+									id: "minecraft:chipped_anvil"
+								}
+								{
+									Count: 1b
+									id: "minecraft:damaged_anvil"
+								}
+							]
+						}
+					}
+					title: "Anvil (can be damaged)"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5067E15D84F851AD"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:furnace"
+								}
+								{
+									Count: 1b
+									id: "minecraft:blast_furnace"
+								}
+							]
+						}
+					}
+					title: "(Blast) Furnace"
+					type: "item"
+				}
+				{
+					id: "1AE7184369650EA9"
+					item: "minecraft:cauldron"
+					title: "Cauldron filled with lava"
+					type: "item"
+				}
+				{
+					id: "54EAF43735BAB7EA"
+					item: "minecraft:lava_bucket"
+					type: "item"
+				}
+			]
+			title: "Forge Ritual"
+			x: -7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create Curios, Focuses and miscellaneous items."
+				""
+				"Must be performed at or below Y: 32 without the Dark Altar exposed to the sky."
+			]
+			id: "30E36E2EEF6700F5"
+			tasks: [
+				{
+					count: 8L
+					id: "5F238507B139AA51"
+					item: { Count: 8, id: "minecraft:amethyst_block" }
+					type: "item"
+				}
+				{
+					id: "3D468B4EF48A4FA4"
+					item: "minecraft:smithing_table"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "2417239EFD31F095"
+					item: {
+						Count: 16
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:deepslate"
+								}
+								{
+									Count: 1b
+									id: "minecraft:cobbled_deepslate"
+								}
+								{
+									Count: 1b
+									id: "minecraft:chiseled_deepslate"
+								}
+								{
+									Count: 1b
+									id: "minecraft:polished_deepslate"
+								}
+								{
+									Count: 1b
+									id: "minecraft:deepslate_bricks"
+								}
+								{
+									Count: 1b
+									id: "minecraft:cracked_deepslate_bricks"
+								}
+								{
+									Count: 1b
+									id: "minecraft:deepslate_tiles"
+								}
+								{
+									Count: 1b
+									id: "minecraft:cracked_deepslate_tiles"
+								}
+							]
+						}
+					}
+					title: "Deepslate full block of any kind"
+					type: "item"
+				}
+			]
+			title: "Geoturgy Ritual"
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: ["This ritual is used to create Focuses and miscellaneous items."]
+			id: "520F6CE4DB70879F"
+			tasks: [
+				{
+					count: 16L
+					id: "420FC1317AFA206C"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:bookshelves"
+						}
+					}
+					title: "Any Bookshelf"
+					type: "item"
+				}
+				{
+					id: "3572A3322FECA578"
+					item: "minecraft:enchanting_table"
+					type: "item"
+				}
+				{
+					id: "1B48F0269CD04A2D"
+					item: "minecraft:lectern"
+					title: "Lectern with book on it"
+					type: "item"
+				}
+				{
+					id: "158B77A12A8151A6"
+					item: "minecraft:writable_book"
+					type: "item"
+				}
+			]
+			title: "Magic Ritual"
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create items and creatures related to Necromancy."
+				""
+				"&4Must be performed at Night."
+			]
+			id: "0606035C8C44CA0E"
+			tasks: [
+				{
+					count: 8L
+					id: "49C4E527F1125937"
+					item: { Count: 8, id: "minecraft:flower_pot" }
+					title: "Filled flower pot"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "6A2A3B1CE2C6A82C"
+					item: "minecraft:sculk"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "0D535FBB1ADB71FA"
+					item: {
+						Count: 16
+						id: "itemfilters:and"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "itemfilters:not"
+									tag: {
+										items: [{
+											Count: 1b
+											id: "itemfilters:tag"
+											tag: {
+												value: "minecraft:wooden_slabs"
+											}
+										}]
+									}
+								}
+								{
+									Count: 1b
+									id: "itemfilters:tag"
+									tag: {
+										value: "minecraft:slabs"
+									}
+								}
+							]
+						}
+					}
+					title: "Non wooden slabs"
+					type: "item"
+				}
+			]
+			title: "Necroturgy Ritual"
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create Frost items/focuses."
+				""
+				"Must be performed on a biome or area that snows."
+			]
+			id: "300B2B5975075A62"
+			tasks: [
+				{
+					count: 16L
+					id: "69B8463B82888267"
+					item: { Count: 16, id: "minecraft:ice" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1D51B0294FDF8B22"
+					item: { Count: 8, id: "minecraft:snow_block" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6ACCA41C3AC884CE"
+					item: { Count: 4, id: "goety:freezing_lamp" }
+					type: "item"
+				}
+			]
+			title: "Frost Ritual"
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create Wind items/focuses."
+				""
+				"Must be performed at or above Y: 128"
+			]
+			id: "2FACA7B4328A73F4"
+			tasks: [
+				{
+					count: 8L
+					id: "79707B67066A6BDC"
+					item: { Count: 8, id: "goety:marble" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "500FD165230F803C"
+					item: { Count: 16, id: "goety:jade_tiles" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "653EB23654054719"
+					item: { Count: 4, id: "goety:indented_gold" }
+					type: "item"
+				}
+			]
+			title: "Sky Ritual"
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create some Storm focuses/items."
+				""
+				"Same as Sky Ritual."
+				""
+				"Dark Altar must be exposed to a Storm."
+				""
+				"(&9Any block containing the word \"copper\" should work but i decided to only include vanilla ones in the quest because i dont know how compatible modded blocks are&f)"
+			]
+			id: "31E2ADEEBBA037BC"
+			tasks: [
+				{
+					count: 12L
+					id: "115C7AB0EDB01827"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:waxed_exposed_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_cut_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_copper_block"
+								}
+								{
+									Count: 1b
+									id: "minecraft:oxidized_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:weathered_cut_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:weathered_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:exposed_cut_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:exposed_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:copper_block"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_exposed_cut_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_weathered_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_weathered_cut_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_oxidized_copper"
+								}
+								{
+									Count: 1b
+									id: "minecraft:waxed_oxidized_cut_copper"
+								}
+							]
+						}
+					}
+					title: "Copper block"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1A7A75BDCDA01575"
+					item: { Count: 4, id: "minecraft:lightning_rod" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "71E535F4B7CA9459"
+					item: { Count: 20, id: "minecraft:chain" }
+					type: "item"
+				}
+			]
+			title: "Storm Ritual"
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create Nether related items/focuses."
+				""
+				"Must be performed in the Nether."
+				""
+				"(&9Any block containing the word \"basalt\" and \"blackstone\" should work but i decided to only include vanilla ones in the quest because i dont know how compatible modded blocks are&f)"
+			]
+			id: "4A951A019451AE7C"
+			tasks: [
+				{
+					count: 8L
+					id: "17D8C6BDD55954FF"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:basalt"
+								}
+								{
+									Count: 1b
+									id: "minecraft:smooth_basalt"
+								}
+								{
+									Count: 1b
+									id: "minecraft:polished_basalt"
+								}
+							]
+						}
+					}
+					title: "Basalt block"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "15FA6039EAC2C687"
+					item: {
+						Count: 16
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:cracked_polished_blackstone_bricks"
+								}
+								{
+									Count: 1b
+									id: "minecraft:polished_blackstone_bricks"
+								}
+								{
+									Count: 1b
+									id: "minecraft:polished_blackstone"
+								}
+								{
+									Count: 1b
+									id: "minecraft:chiseled_polished_blackstone"
+								}
+								{
+									Count: 1b
+									id: "minecraft:gilded_blackstone"
+								}
+								{
+									Count: 1b
+									id: "minecraft:blackstone"
+								}
+							]
+						}
+					}
+					title: "Blackstone block"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3664D0D6404E9E20"
+					item: { Count: 4, id: "minecraft:glowstone" }
+					type: "item"
+				}
+			]
+			title: "Adept Nether Ritual"
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"This ritual is used to create advanced Nether related items/focuses."
+				""
+				"Must be performed in the Nether"
+			]
+			id: "4B760981C50E3B98"
+			tasks: [
+				{
+					count: 4L
+					id: "3B84F93B235456D9"
+					item: { Count: 4, id: "minecraft:wither_skeleton_skull" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "47C972DE2040A23F"
+					item: {
+						Count: 32
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:nether_bricks"
+								}
+								{
+									Count: 1b
+									id: "minecraft:red_nether_bricks"
+								}
+							]
+						}
+					}
+					title: "(Red) Nether Brick"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "046A75F4EE2BF0D4"
+					item: { Count: 8, id: "minecraft:nether_wart" }
+					type: "item"
+				}
+			]
+			title: "Expert Nether Ritual"
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: ["This ritual is used to summon the Apostle."]
+			id: "0860FDEE7E841EC6"
+			tasks: [
+				{
+					count: 8L
+					id: "5FFFD15AFBFA779C"
+					item: { Count: 8, id: "minecraft:crying_obsidian" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "13B3F6748B8DAF36"
+					item: { Count: 16, id: "minecraft:obsidian" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7BC2FBC91F685E22"
+					item: { Count: 4, id: "minecraft:soul_sand" }
+					title: "Soul Fire"
+					type: "item"
+				}
+			]
+			title: "Sabbath Ritual"
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1365AC5016C3655C"]
+			description: [
+				"Custom Brewing is a modded mechanic based on Witchery's (the mod) brewing system."
+				""
+				"It requires a Witch's Cauldron in order to concoct some brews"
+			]
+			id: "6EA4F1792891B7A8"
+			tasks: [{
+				id: "570AF08EA808FC56"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "goety:witches_brew"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"6EA4F1792891B7A8"
+				"033C60AB0DD8DB73"
+				"27CB72CE46E1E8C0"
+				"23106CB8CDB027C9"
+			]
+			description: [
+				"The Cauldron should be placed above a heat source like a Magma Block, Lava, Fire or Campfire."
+				""
+				"Right-clicking on the Cauldron with a Water Bucket will fill it."
+				""
+				"Once the Cauldron water is boiling you can begin the brewing process."
+				""
+				"The process has 4 steps: &6Capacity &f-> &6Catalyst &f-> &6Augmentation &f-> &6Completion"
+				""
+				"&f(&9See other pages for each process&f)"
+				"{@pagebreak}"
+				"&4&lCapacity"
+				""
+				"&fTo begin the brewing process the brew must attain capacity."
+				""
+				"Capacity is what allows the brew to have effects and augmentation."
+				""
+				"To give the brew capacity you must throw a Nether Wart into a boiling Witch Cauldron which will then emit purple particles and play chiming sounds."
+				"{@pagebreak}"
+				"&4&lCatalyst"
+				""
+				"&fNext the brew must now obtain a catalysts."
+				""
+				"Catalysts are items that to specifies the brew's effect once thrown into the Cauldron."
+				""
+				"Certain catalysts take up more than one Capacity and have adds to the Soul Cost."
+				"{@pagebreak}"
+				"&4&lAugmentation"
+				""
+				"&fThe brew can be augmented with additional properties like longer duration and quicker drinking time. "
+				""
+				"This step is optional and each augmentation increases the Soul Cost of the brew."
+				""
+				"Once the brew has its effects and augmentations it can enter the completion stage."
+				"{@pagebreak}"
+				"&4&lCompletion"
+				""
+				"&fTo begin the step there must be at least a &6Soul Candlestick nearby the cauldron."
+				""
+				"The Soul Candlestick siphons the soul energy from the &6Cursed Cage its placed on &fand sends it to the Cauldron."
+				""
+				"(&9Looking at the Cauldron while crouching will tell the Soul Cost and the total and used Capacity&f)"
+			]
+			id: "7AF25718AA83F219"
+			subtitle: "Less complicated than it sounds"
+			tasks: [
+				{
+					id: "260893662BF0C872"
+					item: "goety:witch_cauldron"
+					type: "item"
+				}
+				{
+					id: "05FDAFC6C860298D"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:magma_block"
+								}
+								{
+									Count: 1b
+									id: "minecraft:lava_bucket"
+								}
+								{
+									Count: 1b
+									id: "minecraft:flint_and_steel"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "minecraft:campfire"
+								}
+							]
+						}
+					}
+					title: "Heat Source"
+					type: "item"
+				}
+				{
+					id: "73AD4626FF4F1E4B"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+				{
+					id: "66F15DCB575EC0CA"
+					item: "minecraft:nether_wart"
+					type: "item"
+				}
+			]
+			title: "Custom Brewery"
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["091D663DFE56585B"]
+			description: [
+				"A soul candlestick is a block that's used when placed &6on&f a filled cursed cage to power certain artifices with soul energy."
+				""
+				"Soul candlesticks become active when placed on a filled cursed cage that still has soul energy connected to it."
+				""
+				"Certain artifices requires the use of soul candlesticks to process its function where it will siphon soul energy from them."
+				"{@pagebreak}"
+				"The soul energy is derived from the cursed cage the candlestick is placed on. The artifices work more quickly if there's more candlesticks around itself as the artifices can siphon from multiple candlesticks at a time."
+				""
+				"These artifices will attempt to find active candlesticks within a &616x16x16 &farea around itself."
+			]
+			id: "033C60AB0DD8DB73"
+			tasks: [{
+				id: "42D61317D679B779"
+				item: "goety:soul_candlestick"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7AF25718AA83F219"]
+			description: [
+				"To begin the actual process right click on the cauldron with a Cauldron Ladle."
+				""
+				"This will cause the cauldron to siphon soul energy from nearby candlesticks."
+				""
+				"The more candlesticks nearby the quicker the process becomes."
+				""
+				"(&9The cauldron will start to bubble rapidly at this stage&f)"
+				"{@pagebreak}"
+				"&a&lSuccess"
+				""
+				"&fAfter siphoning enough soul energy the brewing process will be completed and the player can start bottling the brew."
+				""
+				"A ring of Witch particles around the cauldron signifies the process' success."
+				"{@pagebreak}"
+				"&4&lFailure"
+				""
+				"&fIf something went wrong with the brewing process (like adding an item into the cauldron before putting in the Nether Wart) the brew will turn sickly brown and the cauldron will emit smoke."
+				""
+				"The failed brew can be removed by bottling it into Bottle of Refuse or by right-clicking on the cauldron with a Wand or Staff while crouching."
+			]
+			id: "58668C0DECD9AB5A"
+			tasks: [{
+				id: "1515A83583400589"
+				item: "goety:cauldron_ladle"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "23106CB8CDB027C9"
+			subtitle: "Some extra info that 100% would get asked in discord"
+			tasks: [{
+				id: "20DC17E07DFEE496"
+				title: "Extra Brewery info"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["23106CB8CDB027C9"]
+			description: [
+				"Each effect and augmentation has a capacity requirement add these ingredients in order to increase a brew's capacity."
+				""
+				"Increased capacity is &6needed &fto add multiple effects and augmentation to a brew."
+				""
+				"Certain effects requires more capacity."
+				""
+				"&4It's only at this stage that capacity can be increased&f."
+			]
+			id: "6FA82A4A7C49DB57"
+			subtitle: "Amount needed = how much it increases capacity"
+			tasks: [
+				{
+					count: 4L
+					id: "38B7185F554EC417"
+					item: "minecraft:nether_wart"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "2E71C3ECA7744EE9"
+					item: { Count: 2, id: "minecraft:crimson_fungus" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "59E86EA4049BD449"
+					item: { Count: 2, id: "goety:snap_warts" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6792F605C99A371D"
+					item: { Count: 2, id: "goety:magic_emerald" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "297B28D7E4AB2C21"
+					item: { Count: 2, id: "goety:soul_emerald" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "088C3C5845CB3121"
+					item: { Count: 4, id: "goety:soul_ruby" }
+					type: "item"
+				}
+			]
+			title: "Capacity"
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["23106CB8CDB027C9"]
+			description: [
+				"The following pages describe &4EVERY &feffect that is obtainable via custom brewery so i'd like to make a disclaimer:"
+				""
+				"The wiki i used is the only one i found however it is outdated and does not contain everything related to brews (&9Such as soul cost or duration&f). As such it is still advised to read the book."
+				"{@pagebreak}"
+				"You will encounter 2 very distinct description styles which do have a reason:"
+				""
+				"A large part of the descriptions were copied over from the Goety wiki however as it is not complete and is outdated the missing descriptions were copied from the ingame &6\"The Witch's Brews\"&f book which describes them in a rather... unique style"
+				"{@pagebreak}"
+				" &3Effect&f:&c Brew Dye"
+				" &3Catalyst&f:&c Any dye"
+				" &3Capacity&f:&f 0"
+				""
+				"Changes the Brew's colors into whatever dyes you throw in! Careful though! The color &lwill&r change if you add another Catalyst or dye!"
+				""
+				"(&9Honorary mention as it doesnt really take up a catalyst slot&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Arrowmantic "
+				" &3Catalyst&f:&c Target"
+				" &3Capacity&f:&c 1"
+				""
+				"Arrows that aren't stuck into the ground within 2 blocks of the affected entity will shoot towards them instead of it's original trajectory."
+				""
+				"The effect level increases the radius of the effect by 1 block and the speed of the arrows."
+				""
+				"(&9AKA Homing arrows&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Blind Jump"
+				" &3Catalyst&f:&c Chorus Fruit"
+				" &3Capacity&f:&c 1"
+				""
+				"Teleports the affected to a random location."
+				""
+				"The hifher the level the further they teleport"
+				""
+				"(&9Same as Chorus Fruit with a bit more range&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Blindness "
+				" &3Catalyst&f:&c Ink Sac"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Chop Tree"
+				" &3Catalyst&f:&c Stone Axe"
+				" &3Capacity&f:&c 1"
+				""
+				"With Axe of Stone, I cast my brew! I see a tree and it's wood i hew!"
+				""
+				"(&9Basically chops trees around you&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Climbing "
+				" &3Catalyst&f:&c Spider Egg"
+				" &3Capacity&f:&c 1"
+				""
+				"Affected entities can climb up walls like spiders when colliding on them."
+				""
+				"Affected entities can also walk through cobwebs without being slowed."
+				""
+				"(&9Spiderman?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Darkness"
+				" &3Catalyst&f:&c Sculk"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Ender Ground"
+				" &3Catalyst&f:&c Ender Pearl"
+				" &3Capacity&f:&c 1"
+				""
+				"Teaches those Enderman to not disappear when getting slashed or splashed on!"
+				""
+				"(&9No more teleporting kung-fu enderman&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Extinguish "
+				" &3Catalyst&f:&c Seagrass"
+				" &3Capacity&f:&c 1"
+				""
+				"Aww... The flames are gone..."
+				""
+				"(&9But you burn with too much passion for it&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Fertility "
+				" &3Catalyst&f:&c Egg"
+				" &3Capacity&f:&c 1"
+				""
+				"What do you mean you're not feeling it? Get to breeding! Granny needs some new pair of Leather Boots!"
+				""
+				"(&9This is the actual description ingame&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Fire Resistance"
+				" &3Catalyst&f:&c Magma Cream"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Flame Hands"
+				" &3Catalyst&f:&c Flint and Steel"
+				" &3Capacity&f:&c 1"
+				""
+				"When the affected attacks a mob or player through melee attacks it will set the target on fire for 4 seconds."
+				""
+				"The effect level increases the burning duration."
+				""
+				"(&9Just dont hit yourself&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Flammable "
+				" &3Catalyst&f:&c Grass"
+				" &3Capacity&f:&c 1"
+				""
+				"The fires stings a lot more than usual! Almost like you're made of grass!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Flaying "
+				" &3Catalyst&f:&c Leather"
+				" &3Capacity&f:&c 1"
+				""
+				"Rips the skin, feathers and wool from Animals! Leaves the meat and flesh behind, though don't think they'll be fine! Hahaha!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Freezing "
+				" &3Catalyst&f:&c Powder Snow Bucket"
+				" &3Capacity&f:&c 1"
+				""
+				"The effect simulates the freezing effect mobs and players have when they're in powder snow."
+				""
+				"The \"TicksFrozen\" increases more the higher the effect level."
+				""
+				"Much like being in powder snow fire-related mobs like striders, magma cubes, and blazes take 5 hearts from freezing and Skeletons turn into strays instead of taking freezing damage."
+				"{@pagebreak}"
+				" &3Effect&f:&c Gold Touched"
+				" &3Catalyst&f:&c Gold Nugget"
+				" &3Capacity&f:&c 1"
+				""
+				"When the affected entity dies, they will drop 1-3 gold nuggets, with the amount increasing with the effect's level."
+				""
+				"(&9Midas? Is that you?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Grow Cactus"
+				" &3Catalyst&f:&c Cactus"
+				" &3Capacity&f:&c 1"
+				""
+				"Bringing the green dye to the sandy beaches of my home!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Grow Cave Vines"
+				" &3Catalyst&f:&c Glow Berry"
+				" &3Capacity&f:&c 1"
+				""
+				"Those vines from those lush caves can be pretty when hanging in my own cave! Unfortunately, these vines don't come glowing!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Grow Tree"
+				" &3Catalyst&f:&c Any Tree Sapling"
+				" &3Capacity&f:&c 1"
+				""
+				"What's a Witch that don't surround themselves with trees?"
+				""
+				"The Catalyst can be any Sapling!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Growth "
+				" &3Catalyst&f:&c Bone Meal"
+				" &3Capacity&f:&c 1"
+				""
+				"For when my herbs aren't growing fast enough! Granny's not gonna Bone Meal each and everyone of ya!"
+				""
+				"(&9I wonder if it works on humans?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Harvest "
+				" &3Catalyst&f:&c Wooden Hoe"
+				" &3Capacity&f:&c 1"
+				""
+				"A bucket of water breaks the seeds! With this brew, the ground retains its treats!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Haste "
+				" &3Catalyst&f:&c Cookie"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Hunger "
+				" &3Catalyst&f:&c Rotten Flesh"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Insight "
+				" &3Catalyst&f:&c Book and Quill"
+				" &3Capacity&f:&c 1"
+				""
+				"Mobs killed by a player with the effect will drop twice the amount of experience."
+				""
+				"The higher the effect level, the more experience is multiplied. The multiplication is calculated as such:"
+				"&6Experience = Original Experience * (Effect Level + 2)"
+				""
+				"&f(Effect Level can equal to 0 as Insight I is considered effect level 0 while Insight II is considered level 1)."
+				"{@pagebreak}"
+				" &3Effect&f:&c Invisibility "
+				" &3Catalyst&f:&c Glass Pane"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Jump Boost"
+				" &3Catalyst&f:&c Rabbit's Foot"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Launch "
+				" &3Catalyst&f:&c Firework Rocket"
+				" &3Capacity&f:&c 1"
+				""
+				"Up, Up and Away!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Leaf Shell"
+				" &3Catalyst&f:&c Peony"
+				" &3Capacity&f:&c 1"
+				""
+				"Better light those matches! those leaves aren't so easy to break by hand!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Love "
+				" &3Catalyst&f:&c Cocoa Beans"
+				" &3Capacity&f:&c 1"
+				""
+				"It's breeding time!"
+				""
+				"(&9Thats what the book said&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Luck "
+				" &3Catalyst&f:&c Nautilus Shell"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Mining Fatigue"
+				" &3Catalyst&f:&c Prismarine Shard"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Mossify "
+				" &3Catalyst&f:&c Moss Block"
+				" &3Capacity&f:&c 1"
+				""
+				"Granny needs to bring the Lush out of the caves sometimes! Also some Mossy Cobblestones and Bricks!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Nausea "
+				" &3Catalyst&f:&c Bottle of Refuse"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Night Vision"
+				" &3Catalyst&f:&c Golden Carrot"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Photosynthesis"
+				" &3Catalyst&f:&c Sunflower"
+				" &3Capacity&f:&c 1"
+				""
+				"Photosynthesis is an effect that heals the affected when in direct sunlight."
+				""
+				"(&9Refuse humanity, become &mmonke&r &9plant&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Poison "
+				" &3Catalyst&f:&c Spider Eye"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Pressure "
+				" &3Catalyst&f:&c Music Disc - Cat"
+				" &3Capacity&f:&c 1"
+				""
+				"Feel like everyone's looking at ya weirdly? Good thing it doesnt actually hurt ya! Or can it? Hehahaha!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Pruning "
+				" &3Catalyst&f:&c Stone Hoe"
+				" &3Capacity&f:&c 1"
+				""
+				"Get those dang floating Leaves out of my property!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Regeneration "
+				" &3Catalyst&f:&c Ghast Tear"
+				" &3Capacity&f:&c 1"
+				""
+				"A live &4sacrafice &fof a &6Guard Villager&f also works!"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Repulsive "
+				" &3Catalyst&f:&c Piston"
+				" &3Capacity&f:&c 1"
+				""
+				"When attacked, the attacker is knocked away from the affected entity."
+				""
+				"The power of the knockback increases the higher the effect level."
+				""
+				"(&9Something we all wished to have sometimes&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Sapped "
+				" &3Catalyst&f:&c Savage Tooth"
+				" &3Capacity&f:&c 1"
+				""
+				"The effect increases incoming attacks through this calculation:"
+				"&6Damage = Original Damage + (Original Damage * 0.2 * (Effect Level + 1)) "
+				""
+				"&fFor example, if the original damage is 20, the affected will gain 24 damage."
+				""
+				"If the affected has Sapped II, the damage will become 28 instead and so on."
+				"{@pagebreak}"
+				" &3Effect&f:&c Saturation "
+				" &3Catalyst&f:&c Rabbit Stew"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Shear "
+				" &3Catalyst&f:&c Shears"
+				" &3Capacity&f:&c 1"
+				""
+				"My arms are too old to be shearing those Sheeps! My brews will do it for Ol' Granny"
+				"{@pagebreak}"
+				" &3Effect&f:&c Slow Falling"
+				" &3Catalyst&f:&c Phantom Membrane"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Slowness "
+				" &3Catalyst&f:&c Chain"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Snowy "
+				" &3Catalyst&f:&c Snow Block"
+				" &3Capacity&f:&c 1"
+				""
+				"When Granny feels like she wants to play in the snow!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Speed "
+				" &3Catalyst&f:&c Sugar"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Strength "
+				" &3Catalyst&f:&c Blaze Powder"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Sweet Thorns"
+				" &3Catalyst&f:&c Sweet Berry"
+				" &3Capacity&f:&c 1"
+				""
+				"Granny wants to make Sweet Berry Pie, but my poor legs are too tired to go to the Taiga. Meh, just make my own Berry Bushes then!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Swift Swim"
+				" &3Catalyst&f:&c Cooked Feet of Frog"
+				" &3Capacity&f:&c 1"
+				""
+				"No one expects an Ol' Granny like me to skedaddle quickly in water!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Thorn Trap"
+				" &3Catalyst&f:&c Rose Bush"
+				" &3Capacity&f:&c 1"
+				""
+				"You're surrounded brat! You should stop walking unless you get a face full of thorns! Hahahaha!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Transpose "
+				" &3Catalyst&f:&c Popped Chorus Fruit"
+				" &3Capacity&f:&c 1"
+				""
+				"Gathers all kinds of entity, including Items, to the location where the brew was landed or drunk!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Tripping "
+				" &3Catalyst&f:&c Cracked Stone Bricks"
+				" &3Capacity&f:&c 1"
+				""
+				"Careful where you walk kids! You might be thrown off to a random direction! If the levels higher, you'll be tripping constantly!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Unluck "
+				" &3Catalyst&f:&c Poisonous Potato"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla (Bad luck)&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Venomous Hands"
+				" &3Catalyst&f:&c Venomous Fang"
+				" &3Capacity&f:&c 1"
+				""
+				"When the affected attacks a mob or player through melee attacks, it will give the target the poison effect for 10 seconds. The effect level increases the poison effect level."
+				""
+				"When used with a fanged dagger, the poison duration will increase to 30 seconds."
+				"{@pagebreak}"
+				" &3Effect&f:&c Water Breathing"
+				" &3Catalyst&f:&c Pufferfish"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Weakness "
+				" &3Catalyst&f:&c Fermented Spider Eye"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Corrosion"
+				" &3Catalyst&f:&c Lily of the Valley"
+				" &3Capacity&f:&c 1"
+				""
+				"See those blocks? Not anymore (Unless its Obsidian)! I see your armor, and I think it could be a little more damaged! Hahahaha!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Ender Flux"
+				" &3Catalyst&f:&c Endermite"
+				" &3Capacity&f:&c 1"
+				""
+				"You know the old tale of cats jumping and clawing at the ceiling when surprised? Well, what if they end up jumping to a whole new location instead, and the surprise is a knife to the face?"
+				""
+				"(&9Basically the affected entity teleports away when it gets damaged&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Flimsy"
+				" &3Catalyst&f:&c Feather"
+				" &3Capacity&f:&c 1"
+				""
+				"Makes even the sturdiest of fools bend to the winds!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Frog Legs"
+				" &3Catalyst&f:&c Feet of Frog"
+				" &3Capacity&f:&c 1"
+				""
+				"Why just jump off the ground when you can also jump off the air as well?"
+				""
+				"(&9Double jump&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Part Lava"
+				" &3Catalyst&f:&c Cauldron"
+				" &3Capacity&f:&c 1"
+				""
+				"Forgot to bring my Strider with me. Looks like i gotta part the lava lakes to go to places!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Part Water"
+				" &3Catalyst&f:&c Bucket"
+				" &3Capacity&f:&c 1"
+				""
+				"Left my spinning blade at home, now how am i gonna cross this sea? Oh, good thing i got me brews with me!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Glowing"
+				" &3Catalyst&f:&c Glow Ink Sac"
+				" &3Capacity&f:&c 1"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Absorption "
+				" &3Catalyst&f:&c Golden Apple"
+				" &3Capacity&f:&d 2"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c BEEEEES "
+				" &3Catalyst&f:&c Bee Nest"
+				" &3Capacity&f:&d 2"
+				""
+				"Buzzing bumbles, flying rumbles, sting my foe, honey my toes!"
+				""
+				"(&9What is this? A magic spell?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Combust "
+				" &3Catalyst&f:&c Fire Charge"
+				" &3Capacity&f:&d 2"
+				""
+				"FIRE! HAHAHAHAHA!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Drought "
+				" &3Catalyst&f:&c Sponge"
+				" &3Capacity&f:&d 2"
+				""
+				"Too much water! With this brew, there will be no water!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Freeze Water"
+				" &3Catalyst&f:&c Packed Ice"
+				" &3Capacity&f:&d 2"
+				""
+				"Sometimes Ol' Granny wants to skate in their Swamp on their hag-made frozen pond!"
+				""
+				"(&9What are you doing in my swamp?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Infest "
+				" &3Catalyst&f:&c Any vanilla Infested Block"
+				" &3Capacity&f:&d 2"
+				""
+				"Makes certain Stones and Stone Bricks infested with those adorable Silverfishes!"
+				""
+				"A live &4sacrafice&f of a silverfish also works!"
+				""
+				"(&92nd way looks more fun isnt it?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Instant Damage"
+				" &3Catalyst&f:&c Brick"
+				" &3Capacity&f:&d 2"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Instant Health "
+				" &3Catalyst&f:&c Glistening Melon Slice"
+				" &3Capacity&f:&d 2"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Webbed"
+				" &3Catalyst&f:&c Spider Nest"
+				" &3Capacity&f:&d 2"
+				""
+				"Those spiders sure work fast! Though they seemed to only make webs when the brew hits a creature instead of on solid land..."
+				"{@pagebreak}"
+				" &3Effect&f:&c Wither"
+				" &3Catalyst&f:&c Wither Rose"
+				" &3Capacity&f:&d 2"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Bat Burst"
+				" &3Catalyst&f:&c Beetroot Soup"
+				" &3Capacity&f:&5 3"
+				""
+				"Fly my pretties! Fly and eat the faces of my foes!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Explosive"
+				" &3Catalyst&f:&c Creeper Head"
+				" &3Capacity&f:&5 3"
+				""
+				"If the affected mob or player is pushed or took damage, they have a chance of emitting a destructive explosion that doesn't damage the affected entity."
+				""
+				"After emitting an explosion, the effect is removed. The chance of emitting, and the power of, the explosion increases the higher the effect level."
+				""
+				"The effect has a higher chance of activating taking damage than being pushed."
+				""
+				"(&9Ever wanted to be a creeper?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Fiery Aura"
+				" &3Catalyst&f:&c Magma Block"
+				" &3Capacity&f:&5 3"
+				""
+				"Don't get too close to me! I'm too hot for ya!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Flood"
+				" &3Catalyst&f:&c Wet Sponge"
+				" &3Capacity&f:&5 3"
+				""
+				"Too little water! With this brew, there will be water!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Frosty Aura"
+				" &3Catalyst&f:&c Blue Ice"
+				" &3Capacity&f:&5 3"
+				""
+				"Don't get too close to me! I'm too cold for ya!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Health Boost"
+				" &3Catalyst&f:&c Enchanted Golden Apple"
+				" &3Capacity&f:&5 3"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Levitation"
+				" &3Catalyst&f:&c Shulker Shell"
+				" &3Capacity&f:&5 3"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Purify Buffs"
+				" &3Catalyst&f:&c Warped Wartful Egg"
+				" &3Capacity&f:&5 3"
+				""
+				"Removes all non harmful effects from those dang kids!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Purify Debuffs"
+				" &3Catalyst&f:&c Wartful Egg"
+				" &3Capacity&f:&5 3"
+				""
+				"Removes all harmful effects from those dang kids!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Resistance"
+				" &3Catalyst&f:&c Scute"
+				" &3Capacity&f:&5 3"
+				""
+				"(&9Same as vanilla&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Strip Armor"
+				" &3Catalyst&f:&c Mangrove Roots"
+				" &3Capacity&f:&5 3"
+				""
+				"Oh no, I ain't prude enough to rip your clothes off! Just your armor! I could tear off most of them if my higher level *wink*."
+				"{@pagebreak}"
+				" &3Effect&f:&c Wild Rage"
+				" &3Catalyst&f:&c Raging Matter"
+				" &3Capacity&f:&5 3"
+				""
+				"Let the hate flow through you!"
+				""
+				"(&9Darth Sidious?!&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Pulverize"
+				" &3Catalyst&f:&c Block of Iron"
+				" &3Capacity&f:&5 3"
+				""
+				"Stone to Cobble to Gravel to Sand! Get me some coal and make me a glass!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Raise dead"
+				" &3Catalyst&f:&c Cursed Metal Ingot"
+				" &3Capacity&f:&5 3"
+				""
+				"Wake up sleepy heads! Granny can't carry all these bags herself!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Cursed"
+				" &3Catalyst&f:&c Occult Fabric"
+				" &3Capacity&f:&4 5"
+				""
+				"A Curse upon you! No healing for you! I just rhymed you with you! What ya gonna do?"
+				"{@pagebreak}"
+				" &3Effect&f:&c Explode"
+				" &3Catalyst&f:&c TNT"
+				" &3Capacity&f:&4 5"
+				""
+				"See that house over there? Ta-da! Now it's got a hole on it!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Fire Trail"
+				" &3Catalyst&f:&c Lava Bucket"
+				" &3Capacity&f:&4 5"
+				""
+				"Catch me if you can handle my hot boots!"
+				""
+				"(&9Book had a type and wrote \"if you can\" twice lol&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Nyctophobia"
+				" &3Catalyst&f:&c Sculk Shrieker"
+				" &3Capacity&f:&4 5"
+				""
+				"If the affected entity is within a position that lacks light, they will take damage."
+				""
+				"The amount of damage inflicted to the affected entity is shown in the table below:"
+				""
+				"&3Level:&2              1 | 2  | 3   | 4 | 5   | 6+"
+				"&3Ticks per hp:&2    40 | 20 | 10 | 5 | 2   | 1"
+				"&3Hp per second:&2 0.5 | 1  | 2   | 4 | 10 | 20"
+				""
+				"Due to damage immunity, the effective rate is 10 ticks &6(1heart × 1 per second)&f at levels 4 and up."
+				""
+				"(&9Please understand that due to limitations no other way to include the actual table here&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Plunge"
+				" &3Catalyst&f:&c Anvil"
+				" &3Capacity&f:&4 5"
+				""
+				"Seems like you've been eating a lot of granny's cookies! Here, have some more!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Sun Allergy"
+				" &3Catalyst&f:&c Skeleton Skull"
+				" &3Capacity&f:&4 5"
+				""
+				"Hey kiddies! You want to BE a Skeleton? Or Zombie? Or Phantom? Or..."
+				"{@pagebreak}"
+				" &3Effect&f:&c Bottling"
+				" &3Catalyst&f:&c Witch Hat"
+				" &3Capacity&f:&4 5"
+				""
+				"Be better at brewing by brewing a brew that makes you brew better!"
+				""
+				"(&9What is this tongue twister?&f)"
+				"{@pagebreak}"
+				" &3Effect&f:&c Corpse Eater"
+				" &3Catalyst&f:&c Zombie Head"
+				" &3Capacity&f:&4 5"
+				""
+				"Ever wish to feast on the last breath of your kills? Well now you can! Tasty too!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Evil eye"
+				" &3Catalyst&f:&c Forbidden Grass Block"
+				" &3Capacity&f:&4 5"
+				""
+				"The glare of evil attracts all kinds of folks, perfect for having a party!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Snow Skin"
+				" &3Catalyst&f:&c Snow Golem"
+				" &3Capacity&f:&4 5"
+				""
+				"Wanna BE a snow man?! Well you gotta boil one first!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Storm's Wrath"
+				" &3Catalyst&f:&c Lightning Rod"
+				" &3Capacity&f:&4 5"
+				""
+				"It's either wrath from the clouds or love from the lightning itself. Either way, you're getting a new hairstyle!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Fortunate"
+				" &3Catalyst&f:&c Diamond"
+				" &3Capacity&f:&8 7"
+				""
+				"Bah! Who needs Enchantments when you have brews! Ol' Granny needs some extra diamonds, and she's all out of Lapis!"
+				"{@pagebreak}"
+				" &3Effect&f:&c Save Effects"
+				" &3Catalyst&f:&c Echo Shard"
+				" &3Capacity&f:&0 9"
+				""
+				"Got the idea from eating those Echoey Shards! Makes the effects stick even after drinking some Milk, and apparently death? Must be useful to those darn immortal types, like that blue compass thing!"
+				"{@pagebreak}"
+				"This alone took DAYS to make (due to not having time to work on it lol) so if you've read until this point or atleast took the time to scroll through all the way to this 104th page you're hereby granted 1 honorary cookie claimable on discord with a proof of this page :)"
+			]
+			id: "1C44DF7BFD16739A"
+			subtitle: "1 page/effect"
+			tasks: [{
+				id: "4F132C065986FCFF"
+				title: "A list of every catalyst effects"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7120F533AC21A23D"]
+			id: "4E615F5F98D170C3"
+			subtitle: "&6Double &fthe size of the bag."
+			tasks: [{
+				id: "7B7D49900E445B79"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 21
+							slot: 0
+						}
+					}
+					id: "goety:focus_pack"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Artifices are functional blocks that utilizes soul energy to perform its functions."
+				""
+				"They are usually placed ontop of a filled cursed cage but certain artifices are placed under it instead."
+				"{@pagebreak}"
+				"&4&lThe Artifices listed here are not all but only the ones listed on the wiki in order to encourage reading the book"
+			]
+			id: "091D663DFE56585B"
+			subtitle: "Read me"
+			tasks: [{
+				id: "35160EA0E9BB91A0"
+				title: "Artifices"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"091D663DFE56585B"
+				"00FC1471C7380A53"
+			]
+			description: [
+				"A soul absorber is an artifice that converts items into soul energy when placed &6on top&f an active arca."
+				""
+				"The absorber can accept certain items that it will either destroy or siphon its contained soul energy."
+				""
+				"If it's a totem to increase the arca's bound player's soul energy."
+				"{@pagebreak}"
+				"When destroying or siphoning items it will emit soul flame particles around itself."
+				""
+				"The time to destroy an item depends on the soul energy it provides the lower the quicker."
+				""
+				"It can accept only one item at a time, and it can accept hoppers."
+				"{@pagebreak}"
+				"These items can be placed on it to gain soul energy:"
+				""
+				"&6Soul Sand &f-> &325 Soul Energy"
+				""
+				"&6Sculk &f-> &35 Soul Energy"
+				""
+				"&6Sculk Shrieker &f-> &325 Soul Energy"
+				""
+				"&6Ectoplasm &f-> &35 Soul Energy"
+				""
+				"&6Totem of Undying &f-> &3200 Soul Energy"
+				""
+				"If a Totem of Roots/Souls is placed on it the absorber will slowly drain it of its soul energy and then destroy it once it's empty."
+			]
+			id: "4468BDFAE924BF0A"
+			tasks: [{
+				id: "6A4C4E3C3E96FFA4"
+				item: "goety:soul_absorber"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"091D663DFE56585B"
+				"00FC1471C7380A53"
+			]
+			description: [
+				"The menderer requires a filled cursed cage placed &6beneath it&f to be active."
+				""
+				"A damaged item can be inserted into the menderer by right-clicking the block with it or placed through hoppers."
+				""
+				"The soul menderer can only accept one item at a time."
+				""
+				"Every 0.5 seconds the soul menderer will siphon 1 unit of soul energy from the cage to repair 1 durability point of the placed item."
+				"{@pagebreak}"
+				"If the item is enchanted each enchantment multiplies the soul energy cost (&9ie, and item with one enchantment will cost 2 soul energy, two enchantments will cost 3 soul energy and so on.&f)."
+				""
+				"When repairing the menderer emits soul flame particles from itself."
+				""
+				"If the item is no longer damaged, the menderer will spit the item out of itself."
+			]
+			id: "13159BEBCB562AD2"
+			tasks: [{
+				id: "724795B02D62468F"
+				item: "goety:soul_mender"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["091D663DFE56585B"]
+			description: [
+				"A sculk devourer is a modified sculk catalyst that rather than spreading sculk provides its owner soul energy when a mob dies near it."
+				""
+				"Placing down a sculk devourer will cause it to bound the placer as its owner. "
+				""
+				"It does &4not&f require a cursed cage like other artifices."
+				""
+				"The devourer will transfer soul energy to its owner automatically."
+				"{@pagebreak}"
+				"If a mob dies within a Euclidean distance of 8 blocks of a sculk devourer the devourer blooms giving off soul particles."
+				""
+				"If you think of the &6Pythagorean theorem&f (a^2 + b^2 = c^2) then the &6Euclidean distance &fis the &6c^2"
+				""
+				"(&9I swear i didn't google what an Euclidean distance is&f)"
+				"{@pagebreak}"
+				"The means of death of the mob is irrelevant; mobs can die from being killed by a player, by another mob, or from environmental damage."
+				""
+				"Rather than granting experience the amount of experience the mob would have dropped when it was killed by a player is converted into soul energy which is transferred to the block's owner."
+				""
+				"If the owner does not have totem or an active arca the sculk devourer won't function."
+			]
+			id: "2AE24A28EACEFD35"
+			subtitle: "Mastah got me working~"
+			tasks: [{
+				id: "56689F248717FA9D"
+				item: "goety:sculk_devourer"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"091D663DFE56585B"
+				"520F6CE4DB70879F"
+			]
+			description: [
+				"When placed &6under&f a filled cursed cage and activated with a redstone pulse the sculk converter will absorb soul energy from the cage (5 units unless the block is enchanted) and spread sculk around itself similar to sculk catalysts."
+				"{@pagebreak}"
+				"If there's a sculk relay within &632x16x32 &fblocks of the converter it will spread sculk on the relay's location instead."
+				""
+				"The converter will send particles towards the relay to signify which relay it's connected to."
+				""
+				"If the relay is broken the converter will either find a new one within range or spread on itself."
+			]
+			id: "095809E83C6BECF6"
+			tasks: [
+				{
+					id: "4A38F453B778CA02"
+					item: "goety:sculk_converter"
+					type: "item"
+				}
+				{
+					id: "7EE2D6393F99C473"
+					item: "goety:sculk_relay"
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"091D663DFE56585B"
+				"520F6CE4DB70879F"
+			]
+			description: [
+				"Sculk growers requires a filled cursed cage &6on top &fof it to become active."
+				""
+				"Unlike sculk converters it will remain active with a constant redstone signal like a turned on lever and it absorbs soul energy in bulk rather than slowly siphoning it."
+				""
+				"Absorbing a bulk of soul energy causes it to gain&6 'charges' &fwhich is used to speed up the growth of the surrounding crops."
+				"{@pagebreak}"
+				"Sculk growers will grow random non-fully grown crops from a &68x4x8 &farea around itself."
+				""
+				"It grows them by applying random tick on them using up a charge when doing so."
+				""
+				"If not supplied with a redstone signal the grower will continue to grow crops until it runs out of charges. "
+				"If there aren't any crops around the grower its charges will decay within itself."
+			]
+			id: "08A3A9C4E52B0D60"
+			tasks: [{
+				id: "126F79F7F4788361"
+				item: "goety:sculk_grower"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"091D663DFE56585B"
+				"00FC1471C7380A53"
+			]
+			description: [
+				"Necro braziers are only active when placed down in a deep dark biome."
+				""
+				"When placed outside of the biome the brazier will be inactive not emitting light or particles."
+				""
+				"Entities that are not immune to fire, wearing Frost Walker boots and/or not undead will take fire damage when standing on top of the brazier."
+				"{@pagebreak}"
+				"When placed in the right biome the brazier can produce dark metal ingots."
+				""
+				"The brazier requires &6one ghast tear&f, &6one sculk block&f, &6one cursed metal ingot&f, and &31000 soul energy &fto produce a single dark metal ingot."
+				""
+				"The items can be thrown on top right-clicked or hoppered in the brazier. "
+				"{@pagebreak}"
+				"The brazier requires the usage of soul candlesticks to siphon soul energy from filled cursed cages."
+				""
+				"The brazier can siphon from multiple candlesticks within &616x16x16&f area around itself."
+				""
+				"If the cursed cages do not have enough soul energy to create a dark metal ingot, it will spill out all of its content with a failed sound effect."
+			]
+			id: "2888D742B43D5DA9"
+			tasks: [{
+				id: "7F223291C119BB95"
+				item: "goety:necro_brazier"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7B8556675DC0AE2B"]
+			description: [
+				"Altar must be in Deep Ocean biome and below sea level."
+				""
+				"Altar must be waterlogged."
+				""
+				"The power of the ocean courses through the Altar allowing you to harness the very tides for your own diabolical purposes."
+			]
+			id: "63C2AF90FB2E80CF"
+			tasks: [
+				{
+					count: 4L
+					id: "5FCE8DBBBB6FE095"
+					item: { Count: 4, id: "minecraft:sea_lantern" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "76745D4CA621301F"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:prismarine"
+								}
+								{
+									Count: 1b
+									id: "minecraft:prismarine_bricks"
+								}
+								{
+									Count: 1b
+									id: "minecraft:dark_prismarine"
+								}
+							]
+						}
+					}
+					title: "Prismarine block"
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "2861F40E3F4EAE4E"
+					item: {
+						Count: 16
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "minecraft:polished_granite"
+								}
+								{
+									Count: 1b
+									id: "minecraft:granite"
+								}
+							]
+						}
+					}
+					title: "Granite block"
+					type: "item"
+				}
+			]
+			title: "Deep Ritual"
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"0313B4300E6F9320"
+				"00FC1471C7380A53"
+			]
+			description: [
+				"The arca is a player-made block that gives the player more storage and remote usage of soul energy."
+				""
+				"The player bound to the arca can instantly break them by right-clicking on it while crouching."
+				"When broken this way the arca will be in item form."
+				""
+				"Breaking the arca manually will completely destroy it."
+			]
+			id: "79454E93FC35C076"
+			tasks: [{
+				id: "3147773710651A9B"
+				item: "goety:arca"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"By this point you've probably noticed that i like to &6suffer &fon pointless little details and making people live through the same suffering."
+				""
+				"So here's &4EVERY&f focus sorted by types :)"
+				""
+				"- Person who made this chapter"
+				""
+				"(&9They're all optional so wont effect completion rate&f)"
+			]
+			id: "609F16C6F6E76F58"
+			tasks: [{
+				id: "74242C53111B6128"
+				title: "Collectibles"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "327D5048C2DCBE1C"
+			optional: true
+			rewards: [{
+				id: "03971654C5B7698C"
+				item: "goety:abyss_robe"
+				type: "item"
+			}]
+			subtitle: "Really is just Water"
+			tasks: [
+				{
+					id: "205DCA8574087BCE"
+					item: "goety:bubble_stream_focus"
+					type: "item"
+				}
+				{
+					id: "6346D65C7C334A6C"
+					item: "goety:bouncy_bubble_focus"
+					type: "item"
+				}
+				{
+					id: "674B9DAC77055CAC"
+					item: "goety:steaming_focus"
+					type: "item"
+				}
+				{
+					id: "5F0D17980C4BC1A9"
+					item: "goety:trident_storm_focus"
+					type: "item"
+				}
+				{
+					id: "65A0D8FB41F9C9F6"
+					item: "goety:prisma_beam_focus"
+					type: "item"
+				}
+				{
+					id: "4B0BBB4ECC339A06"
+					item: "goety:biomine_focus"
+					type: "item"
+				}
+				{
+					id: "64A249E35368A671"
+					item: "goety:tidal_focus"
+					type: "item"
+				}
+			]
+			title: "Abyss Spell Types"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "54581C9F3EF31694"
+			optional: true
+			rewards: [{
+				id: "61D683B74BBBC0FC"
+				item: "goety_revelation:ice_focus"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3225985E58032A84"
+					item: "goety:frost_breath_focus"
+					type: "item"
+				}
+				{
+					id: "5687D3E85F974DAD"
+					item: "goety:ice_spike_focus"
+					type: "item"
+				}
+				{
+					id: "0407025B96F56057"
+					item: "goety:ice_storm_focus"
+					type: "item"
+				}
+				{
+					id: "60E1499744AA17C6"
+					item: "goety:hail_focus"
+					type: "item"
+				}
+				{
+					id: "20E767DB6315B371"
+					item: "goety:iceology_focus"
+					type: "item"
+				}
+				{
+					id: "7F66F00484754C44"
+					item: "goety:blizzard_focus"
+					type: "item"
+				}
+				{
+					id: "6F2468E5877DFA23"
+					item: "goety:chilling_focus"
+					type: "item"
+				}
+				{
+					id: "1D6F3ADA9BE65872"
+					item: "goety:frost_nova_focus"
+					type: "item"
+				}
+				{
+					id: "2F8D0B51482257B2"
+					item: "goety:frostborn_focus"
+					type: "item"
+				}
+			]
+			title: "Frost Spell Types"
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "293F85433E64E30B"
+			optional: true
+			rewards: [{
+				id: "63197BF927FA551F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [
+				{
+					id: "3253BF4D4E4FE7C7"
+					item: "goety:barricade_focus"
+					type: "item"
+				}
+				{
+					id: "57C6480BCE3E530D"
+					item: "goety:quaking_focus"
+					type: "item"
+				}
+				{
+					id: "29D4346E4F4EB921"
+					item: "goety:pulverize_focus"
+					type: "item"
+				}
+				{
+					id: "39EF2F96B01B9075"
+					item: "goety:rotation_focus"
+					type: "item"
+				}
+				{
+					id: "0C8240AAD88FDD8D"
+					item: "goety:burrowing_focus"
+					type: "item"
+				}
+				{
+					id: "5464DC9E0D0672DB"
+					item: "goety:sensing_focus"
+					type: "item"
+				}
+				{
+					id: "14E81588F37565ED"
+					item: "goety:scatter_focus"
+					type: "item"
+				}
+				{
+					id: "303C5000E328DF91"
+					item: "goety:eruption_focus"
+					type: "item"
+				}
+			]
+			title: "Geomancy Spell Types"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "0A023753FCF80AF6"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "5C6788D78236F38C"
+				item: "goety:forbidden_fragment"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7FAD313AB9E6346C"
+					item: "goety:rotting_focus"
+					type: "item"
+				}
+				{
+					id: "449240A59DDFDCAF"
+					item: "goety:osseous_focus"
+					type: "item"
+				}
+				{
+					id: "4E397F58CAC2ECAD"
+					item: "goety:ghost_fire_focus"
+					type: "item"
+				}
+				{
+					id: "54043171566A67FA"
+					item: "goety:reaping_focus"
+					type: "item"
+				}
+				{
+					id: "55E2B17539DEDA89"
+					item: "goety:spooky_focus"
+					type: "item"
+				}
+				{
+					id: "53D40DDFB87333A7"
+					item: "goety:phantasm_focus"
+					type: "item"
+				}
+				{
+					id: "6751E76A0972D5BA"
+					item: "goety:vanguard_focus"
+					type: "item"
+				}
+				{
+					id: "26315856DE40383C"
+					item: "goety:blackguard_focus"
+					type: "item"
+				}
+				{
+					id: "7F1F2BA4EBB00C39"
+					item: "goety:leeching_focus"
+					type: "item"
+				}
+				{
+					id: "0A4E7166E4588D51"
+					item: "goety:skull_focus"
+					type: "item"
+				}
+			]
+			title: "Necromancy Spell Types"
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "1F223644FD256C82"
+			optional: true
+			rewards: [{
+				count: 3
+				id: "44C0B0D7D2915167"
+				item: "soulsweapons:chungus_emerald_block"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "58D5700887AF77F9"
+					item: "goety:fireball_focus"
+					type: "item"
+				}
+				{
+					id: "489AD235FD52B69E"
+					item: "goety:lavaball_focus"
+					type: "item"
+				}
+				{
+					id: "3ABAFE75B0BEE2B0"
+					item: "goety:magma_bomb_focus"
+					type: "item"
+				}
+				{
+					id: "66154EF4DB4BBB52"
+					item: "goety:fire_blast_focus"
+					type: "item"
+				}
+				{
+					id: "18DB432F1C0F8A09"
+					item: "goety:flame_strike_focus"
+					type: "item"
+				}
+				{
+					id: "455D6A77551272D5"
+					item: "goety:wither_skull_focus"
+					type: "item"
+				}
+				{
+					id: "0D0D8353513D8A07"
+					item: "goety:ghastly_focus"
+					type: "item"
+				}
+				{
+					id: "3788C00554502EFD"
+					item: "goety:blazing_focus"
+					type: "item"
+				}
+				{
+					id: "20C3CD2363E12A5A"
+					item: "goety:bombardment_focus"
+					type: "item"
+				}
+				{
+					id: "52831993D34A9D20"
+					item: "goety:meteor_shower_focus"
+					type: "item"
+				}
+				{
+					id: "7ABF5925EE8E3FD5"
+					item: "goety_revelation:heretic_focus"
+					type: "item"
+				}
+				{
+					id: "0CD238728C3AF027"
+					item: "goety_revelation:wither_quietus_focus"
+					type: "item"
+				}
+			]
+			title: "Nether Spell Types"
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "21169694AFC7FF70"
+			optional: true
+			rewards: [{
+				count: 5
+				id: "4DDBD3550E37C4DE"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "349731669AEA9A52"
+					item: "goety:charge_focus"
+					type: "item"
+				}
+				{
+					id: "52B0F3DD0746C45E"
+					item: "goety:shocking_focus"
+					type: "item"
+				}
+				{
+					id: "2CF6BF7F8471BC51"
+					item: "goety:thunderbolt_focus"
+					type: "item"
+				}
+				{
+					id: "7F1DE23B76847368"
+					item: "goety:electrocute_focus"
+					type: "item"
+				}
+				{
+					id: "46BF3EE38046CA8E"
+					item: "goety:monsoon_focus"
+					type: "item"
+				}
+				{
+					id: "165E8110CED83D98"
+					item: "goety:discharge_focus"
+					type: "item"
+				}
+				{
+					id: "03CB1DA2240AC24D"
+					item: "goety:bolting_focus"
+					type: "item"
+				}
+				{
+					id: "72E8F12787A671E0"
+					item: "goety:lightning_focus"
+					type: "item"
+				}
+			]
+			title: "Storm Spell Types"
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "2B26E56AA34EB397"
+			optional: true
+			rewards: [
+				{
+					count: 2
+					id: "47EB897BB738B4B4"
+					item: "goety:void_barrel"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6AB853E7EF74F9C6"
+					item: "goety:shadow_essence"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "636E42146BAB896F"
+					item: "goety:call_focus"
+					type: "item"
+				}
+				{
+					id: "610E187C4670189D"
+					item: "goety:troop_focus"
+					type: "item"
+				}
+				{
+					id: "56E1421D1478A606"
+					item: "goety:recall_focus"
+					type: "item"
+				}
+				{
+					id: "2AB2A6FB404EC070"
+					item: "goety:ender_chest_focus"
+					type: "item"
+				}
+				{
+					id: "61A0CF172CD002C9"
+					item: "goety:end_walk_focus"
+					type: "item"
+				}
+				{
+					id: "01AA5AE6DEE0F3E3"
+					item: "goety:blink_focus"
+					type: "item"
+				}
+				{
+					id: "79925EFA7924108E"
+					item: "goety:banish_focus"
+					type: "item"
+				}
+				{
+					id: "546A20F46378E85B"
+					item: "goety:tunnel_focus"
+					type: "item"
+				}
+				{
+					id: "3D5310AD1394BEB1"
+					item: "goety:rupture_focus"
+					type: "item"
+				}
+			]
+			title: "Void Spell Types"
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "6BCF58A6C127B0AC"
+			optional: true
+			rewards: [{
+				count: 3
+				id: "504BE9B476C626B9"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3AC1037F599C82A6"
+					item: "goety:swarm_focus"
+					type: "item"
+				}
+				{
+					id: "43E48F3A4C59208E"
+					item: "goety:poison_dart_focus"
+					type: "item"
+				}
+				{
+					id: "30BE824C951426A2"
+					item: "goety:blossoming_focus"
+					type: "item"
+				}
+				{
+					id: "1A27CD3B4C4D0007"
+					item: "goety:grapple_focus"
+					type: "item"
+				}
+				{
+					id: "4362FF848A30F800"
+					item: "goety:hunting_focus"
+					type: "item"
+				}
+				{
+					id: "2E2D5E1D57377666"
+					item: "goety:mauling_focus"
+					type: "item"
+				}
+				{
+					id: "19A0FD915022AC28"
+					item: "goety:slimy_focus"
+					type: "item"
+				}
+				{
+					id: "10AA083774421F2C"
+					item: "goety:overgrowth_focus"
+					type: "item"
+				}
+				{
+					id: "7C9E17579F58CA71"
+					item: "goety:entangling_focus"
+					type: "item"
+				}
+				{
+					id: "4C5DFE1FE2841E45"
+					item: "goety:whispering_focus"
+					type: "item"
+				}
+				{
+					id: "63E3E0EC7AB4CB9D"
+					item: "goety:leaping_focus"
+					type: "item"
+				}
+			]
+			title: "Wild Spell Types"
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "260283CB1EA097BD"
+			optional: true
+			rewards: [{
+				count: 5
+				id: "50A7B8DA862E159C"
+				item: "goety:jade"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "4A3A3D7E16BE9006"
+					item: "goety:launch_focus"
+					type: "item"
+				}
+				{
+					id: "0D79108026410E59"
+					item: "goety:flying_focus"
+					type: "item"
+				}
+				{
+					id: "4A6EDA85719AEAE5"
+					item: "goety:cushion_focus"
+					type: "item"
+				}
+				{
+					id: "74A3E3BD01391EB8"
+					item: "goety:whirlwind_focus"
+					type: "item"
+				}
+				{
+					id: "0D6B3B36F0B10E1C"
+					item: "goety:cyclone_focus"
+					type: "item"
+				}
+				{
+					id: "32E4E9146A2BAA77"
+					item: "goety:updraft_focus"
+					type: "item"
+				}
+				{
+					id: "2BC1D4D37A2B59C7"
+					item: "goety:wind_blast_focus"
+					type: "item"
+				}
+				{
+					id: "2D27B7869557B2C8"
+					item: "goety:trembling_focus"
+					type: "item"
+				}
+			]
+			title: "Wind Spell Types"
+			x: 0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["609F16C6F6E76F58"]
+			id: "196B08165050C47E"
+			optional: true
+			rewards: [{
+				count: 2
+				id: "0F299708678BCD9D"
+				item: "soulsweapons:chungus_emerald_block"
+				type: "item"
+			}]
+			subtitle: "The largest"
+			tasks: [
+				{
+					id: "601DCFA77AA32F31"
+					item: "goety:vexing_focus"
+					type: "item"
+				}
+				{
+					id: "1C9EA364853DFBDD"
+					item: "goety:biting_focus"
+					type: "item"
+				}
+				{
+					id: "77A9F14559254AF0"
+					item: "goety:feast_focus"
+					type: "item"
+				}
+				{
+					id: "70BE1BE18FECA7B3"
+					item: "goety:teeth_focus"
+					type: "item"
+				}
+				{
+					id: "597404E3E9FA32D7"
+					item: "goety:shredding_focus"
+					type: "item"
+				}
+				{
+					id: "7990BB1E2B37BFAA"
+					item: "goety:illusion_focus"
+					type: "item"
+				}
+				{
+					id: "4C4D2009C0F11723"
+					item: "goety:ignite_focus"
+					type: "item"
+				}
+				{
+					id: "10B19002706228E5"
+					item: "goety:fire_breath_focus"
+					type: "item"
+				}
+				{
+					id: "2006722C48B66B78"
+					item: "goety:soul_bolt_focus"
+					type: "item"
+				}
+				{
+					id: "208322CCB139239E"
+					item: "goety:magic_bolt_focus"
+					type: "item"
+				}
+				{
+					id: "6E9746D4227FE20E"
+					item: "goety:sword_focus"
+					type: "item"
+				}
+				{
+					id: "14456CF36A758119"
+					item: "goety:soul_light_focus"
+					type: "item"
+				}
+				{
+					id: "543E145B3C98745F"
+					item: "goety:glow_light_focus"
+					type: "item"
+				}
+				{
+					id: "2283150135652C58"
+					item: "goety:crafting_focus"
+					type: "item"
+				}
+				{
+					id: "4E19C4E22186DE72"
+					item: "goety:iron_hide_focus"
+					type: "item"
+				}
+				{
+					id: "33D49C1AA9EF0728"
+					item: "goety:bulwark_focus"
+					type: "item"
+				}
+				{
+					id: "6C42ECF3F992FD1C"
+					item: "goety:soul_heal_focus"
+					type: "item"
+				}
+				{
+					id: "04604A287AAC9A5D"
+					item: "goety:shockwave_focus"
+					type: "item"
+				}
+				{
+					id: "0DB1767BEB8E03BB"
+					item: "goety:weakening_focus"
+					type: "item"
+				}
+				{
+					id: "6A576D541FD8AE41"
+					item: "goety:arrow_rain_focus"
+					type: "item"
+				}
+				{
+					id: "6CC523EE60866416"
+					item: "goety:telekinesis_focus"
+					type: "item"
+				}
+				{
+					id: "43F862A79519253E"
+					item: "goety:command_focus"
+					type: "item"
+				}
+				{
+					id: "340525E3833805A4"
+					item: "goety:sonic_boom_focus"
+					type: "item"
+				}
+				{
+					id: "0DA08B73357D8097"
+					item: "goety:corruption_focus"
+					type: "item"
+				}
+				{
+					id: "5D87D1023B45869F"
+					item: "goety_spillage:impish_focus"
+					type: "item"
+				}
+				{
+					id: "0A2EE043FDBB4E3C"
+					item: "goety_spillage:spirit_hand_focus"
+					type: "item"
+				}
+				{
+					id: "78FECEDA698911B1"
+					item: "goety_spillage:requiem_focus"
+					type: "item"
+				}
+				{
+					id: "63F50446441566D4"
+					item: "goety_spillage:soul_beam_focus"
+					type: "item"
+				}
+			]
+			title: "Magic Spell Types"
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			description: [
+				"Skull lords are spawned when a player interacts with a locked and un-triggered pithos that can be naturally found in &6crypts&f."
+				""
+				"Skull lords spawned through a pithos will be bound to the block."
+				""
+				"Once the skull lord is spawned the pithos won't be able to spawn another. "
+				""
+				"A skull lord will &4always spawn with a bone lord&f."
+			]
+			id: "5DB029535247F21E"
+			rewards: [{
+				id: "358FE9EFB3A8AAA2"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Miniboss"
+			tasks: [{
+				advancement: "goety:goety/kill_a_skull_lord"
+				criterion: ""
+				id: "02A23B31D5A9BE30"
+				title: "Kill a Skull Lord"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			description: [
+				"A minister is a spell-casting illager mini-boss that can spawn if the player has high enough soul energy."
+				""
+				"They are the only source of Ominous Orbs which is used to craft certain items but is only dropped under special conditions."
+				"{@pagebreak}"
+				"Ministers can spawn depending on the player's soul energy count."
+				""
+				"The amount of soul energy needed for them to spawn naturally is &612 500&f. (&9Unless you changed configs&f)."
+				""
+				"Ministers have a chance of spawning in different skins."
+			]
+			id: "14E5B525DDE1A220"
+			rewards: [{
+				id: "6C9B019049555DB5"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Miniboss"
+			tasks: [{
+				advancement: "goety:goety/kill_a_minister"
+				criterion: ""
+				id: "53E37B8C62B50155"
+				title: "Kill a Minister"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			description: [
+				"Crones are spawned when a player interacts with an active crystal ball found within blighted shacks. "
+				""
+				"An active crystal ball emits &5purple particles &fwhen it's active."
+				""
+				"When spawned the crystal ball becomes inert and is unable to spawn a crone."
+				""
+				"They will spawn nearby the crystal ball."
+				""
+				"Blighted Shacks can be found in &6swamp &fand &6taiga &fbiomes."
+				""
+				"When spawned a crone will have a custom name that appear on their boss bar and above their heads. "
+				""
+				"The name is purely cosmetic."
+			]
+			id: "5031C3E0317D0585"
+			rewards: [{
+				id: "11EAF1D72203A749"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Miniboss"
+			tasks: [{
+				advancement: "goety:goety/kill_a_crone"
+				criterion: ""
+				id: "64A2A7775403E777"
+				title: "Kill a Crone"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			description: [
+				"The vizier is a flying illager hostile boss mob."
+				""
+				"They wield an iron sword and &6can phase through blocks&f."
+				""
+				"They attack by lunging at their targets with their sword and cast a variety of spells."
+				""
+				"They are the only source of Ruby of Souls which is used to craft certain items."
+				""
+				"Viziers are summoned by using a dark scroll within a woodland mansion "
+			]
+			id: "11A665EABF2A56BD"
+			rewards: [{
+				id: "7BE0218DFE2CB46E"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Boss"
+			tasks: [{
+				advancement: "goety:goety/kill_a_vizier"
+				criterion: ""
+				id: "524A87E97D3232B9"
+				title: "Kill a Vizier"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"The apostle is an undead hostile boss mob that performs attacks with arrows and a multitude of harmful spells."
+				""
+				"It is the only source of unholy blood which is used to craft multiple endgame items."
+				""
+				"Apostles are summoned by performing the Sabbath Ritual."
+				""
+				"Using the Sabbath Ritual will spawn a cloud of smoke that will periodically play sounds before spawning in an apostle after &6450 ticks&f (&922,5 seconds&f)."
+			]
+			id: "723E02CCC64E2A3E"
+			rewards: [{
+				count: 5
+				id: "6A879B939A79D07E"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Boss"
+			tasks: [{
+				advancement: "goety:goety/kill_a_apostle"
+				criterion: ""
+				id: "2503A4A68FC640E9"
+				title: "Kill an Apostle"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			description: ["Found in one of the Dungeons_revival dungeons"]
+			id: "3D07E05F8CA8A88E"
+			rewards: [{
+				count: 3
+				id: "715E2E6015E20684"
+				item: "soulsweapons:chungus_emerald"
+				type: "item"
+			}]
+			subtitle: "Boss"
+			tasks: [{
+				entity: "goety:hostile_redstone_monstrosity"
+				icon: "goety:redstone_monstrosity_head"
+				id: "472D6D27E1B8B7BB"
+				title: "Defeat Redstone monstrosity"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+	]
+	title: "&l&eGoety&r"
+}

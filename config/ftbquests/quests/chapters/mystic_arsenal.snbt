@@ -1,0 +1,339 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mystic_arsenal"
+	group: "396150E4AFECA7AD"
+	id: "0AAB1F01DA2690A9"
+	images: [
+		{
+			color: 172543
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			rotation: 90.0d
+			width: 20.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 172543
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			order: 1
+			rotation: 0.0d
+			width: 20.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 172543
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			rotation: 120.0d
+			width: 20.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 172543
+			height: 20.0d
+			image: "lethality:textures/entity/hf_meowrasama_slash_1_1.png"
+			rotation: -120.0d
+			width: 20.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 0
+			height: 10000.0d
+			image: "minecraft:block/black_stained_glass"
+			order: -10
+			rotation: 0.0d
+			width: 10000.0d
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"10D0053FEFB21BD7"
+				"548A6AE498749B84"
+			]
+			description: ["In case you can't read it because you didn't rebind EpicFight's Innate Tooltip button:"]
+			icon: {
+				Count: 1
+				id: "enigmaticlegacy:eldritch_pan"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5D07C7FE38FBB7B9"
+			shape: "square"
+			subtitle: "Just see it's description"
+			tasks: [
+				{
+					id: "3BED049DBDAC2BCB"
+					item: {
+						Count: 1
+						id: "enigmaticlegacy:eldritch_pan"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4D8DC5FC5BE0A080"
+					title: "Reading Checkpoint"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"227C3CDDD24FAAD7"
+				"152288884EC857EE"
+				"0D267103402C04C3"
+				"20C4940EFCCD85C3"
+				"278E5AA2D26B9B3B"
+				"45A61782A593525E"
+				"3E65572BF7AB92F4"
+				"1AA28F0B0470E352"
+				"6CF97BBD7BF8A465"
+			]
+			description: [
+				"&k&4EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE&r"
+				"          &l&0Unfathomable power...&r"
+				"&k&4EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE&r"
+			]
+			hide_dependency_lines: true
+			id: "10D0053FEFB21BD7"
+			shape: "square"
+			tasks: [{
+				id: "567BC7EB5D6D51D2"
+				item: {
+					Count: 1
+					id: "lethality:nightmare_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"      &l&2The Presence of a tyrant&r"
+				"            &l&4Beyond The Blade&r"
+			]
+			id: "227C3CDDD24FAAD7"
+			shape: "square"
+			tasks: [{
+				id: "6C557E56BCD42D2E"
+				item: {
+					Count: 1
+					id: "lethality:defiled_greatsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"            &l&6Such Sorrowness&r"
+				"      &l&4Now pay them back tenfold&r"
+			]
+			id: "152288884EC857EE"
+			shape: "square"
+			tasks: [{
+				id: "7BDBDB29679C4047"
+				item: {
+					Count: 1
+					id: "lethality:grievance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"         &l&6Living life of the edge&r"
+				"  &l&4Let me offer you a bigger risk&r"
+			]
+			id: "0D267103402C04C3"
+			shape: "square"
+			tasks: [{
+				id: "619F7E8FC1C5811D"
+				item: {
+					Count: 1
+					id: "lethality:gamblers_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"        &l&0The only way to survive&r"
+				"    &l&4Pierce their flesh and bones&r"
+			]
+			id: "3E65572BF7AB92F4"
+			shape: "square"
+			tasks: [{
+				id: "760FB3FFE97A8B67"
+				item: {
+					Count: 1
+					id: "lethality:violence"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"          &l&0The wrath inside you&r"
+				"              &l&4Let it take over&r"
+			]
+			id: "20C4940EFCCD85C3"
+			shape: "square"
+			tasks: [{
+				id: "619B6AC912E209BF"
+				item: {
+					Count: 1
+					id: "lethality:vehemence"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"              &l&0The night falls&r"
+				"   &l&4Put them back to their graves&r"
+			]
+			id: "278E5AA2D26B9B3B"
+			shape: "square"
+			tasks: [{
+				id: "2F352313D35CBB00"
+				item: {
+					Count: 1
+					id: "lethality:nightfall"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			description: [
+				"            &l&0Sacrifice awakens&r"
+				"        &l&4Feed it with their blood&r"
+			]
+			id: "45A61782A593525E"
+			shape: "square"
+			tasks: [{
+				id: "6E8A50A618C8AA56"
+				item: {
+					Count: 1
+					id: "lethality:sacrifice"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"      &l&0I see it.... your dark soul&r"
+				"    &l&4Unleash your true potential&r"
+			]
+			id: "1AA28F0B0470E352"
+			shape: "square"
+			tasks: [{
+				id: "15B3614E58680758"
+				item: {
+					Count: 1
+					id: "lethality:gaels_greatsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"    &l&cThis power of eternal flames&r"
+				"          &l&4Burn them to ashes&r"
+			]
+			id: "6CF97BBD7BF8A465"
+			shape: "square"
+			tasks: [{
+				id: "68E2C6F5FC6BC7B9"
+				item: {
+					Count: 1
+					id: "lethality:devils_devastation"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			icon: "enigmaticlegacy:cursed_ring"
+			id: "548A6AE498749B84"
+			rewards: [{
+				id: "3193237832C3A822"
+				item: "enigmaticlegacy:cursed_ring"
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "2278395CA9222A7C"
+				title: "yes i threw it away"
+				type: "checkmark"
+			}]
+			title: "Did you throw it away?"
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+	title: "&l&6Mystic Arsenal&r"
+}
