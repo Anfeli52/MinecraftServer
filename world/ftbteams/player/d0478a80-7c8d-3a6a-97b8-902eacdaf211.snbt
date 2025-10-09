@@ -1,0 +1,17 @@
+{
+	id: "d0478a80-7c8d-3a6a-97b8-902eacdaf211"
+	type: "player"
+	player_name: "JerWithSon"
+	ranks: {
+		d0478a80-7c8d-3a6a-97b8-902eacdaf211: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JerWithSon"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
